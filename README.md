@@ -2,10 +2,10 @@
  
 Source code for the analysis of the abstract submitted to BBEST. Abstract in folder 'paper'.
 
-Abstract citation here:
+* Abstract citation:
 OLIVEIRA, M. P. G. de; BOCCA, F. F. ; RODRIGUES, L. H. A. . Classification trees for delving into sugarcane production in Brazil under climate change. In: BBEST 2017 - Brazilian Bioenergy Science and Technology Conference, 2017, Campos do Jordão, SP. Proceedings of the Brazilian Bioenergy Science and Technology Conference 2017 (BBest2017), 2017. p. 59-60. 
 
-Poster here:
+* Poster here:
 Oliveira, Monique; Rodrigues, Luiz Henrique; Bocca, Felipe Ferreira (2017): Classification trees for delving into sugarcane production in Brazil under climate change. figshare. Poster. https://doi.org/10.6084/m9.figshare.14695527.v2
 
 Parts of this work received contributions from @waroce and from @boccaff.
@@ -51,3 +51,4 @@ A few points are worth highlighting. First of all, both DSSAT and APSIM take int
 Finally, (Marin et al., 2015)[^7] suggest more targeted experiments to understand the physiology Brazilian cultivars so that they can be better represented in sugarcane models for application in Brazil. This is even more relevant given the development of new varieties adapted to new environments. Given these studies have not yet been published, the values used still depend on the authors’ calibration.
 
 ## References
+[^1]:
