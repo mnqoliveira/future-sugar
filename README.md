@@ -6,11 +6,11 @@ OLIVEIRA, M. P. G. de; BOCCA, F. F. ; RODRIGUES, L. H. A. . Classification trees
 * Poster here:
 Oliveira, Monique; Rodrigues, Luiz Henrique; Bocca, Felipe Ferreira (2017): Classification trees for delving into sugarcane production in Brazil under climate change. figshare. Poster. https://doi.org/10.6084/m9.figshare.14695527.v2
 
-Parts of this work received contributions from [@waroce](https://github.com/waroce) and from [@boccaff](https://github.com/boccaff).
+Parts of this work received contributions from [@waroce](https://github.com/waroce) and from [@boccaff](https://github.com/boccaff). I am now sharing it as it may be useful for someone else. I would only like an acnowledgement in case it is used. :)
 
 ## Methods
 ### Variables
-As much as possible, the recommended procedures stated by White et al. (2011)[^1], regarding assessments of climate change in agroecosystems, were followed. The variables that were modified in the simulations are summarized in Table 1. I am now sharing it as it may be useful for someone else. I would only like an acnowledgement in case it is used. :)
+As much as possible, the recommended procedures stated by White et al. (2011)[^1], regarding assessments of climate change in agroecosystems, were followed. The variables that were modified in the simulations are summarized in Table 1. 
 
 Table 1. Variables that were changed in the simulations.
 | Category          | Configuration                                                                                                                                                                                                                                                                                                 |
