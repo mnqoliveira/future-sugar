@@ -1,0 +1,7 @@
+DSSAT - acrescentei três calibrações: tese de livre docente, 
+paper da env mod soft (2015) e paper da agronomy journal (2011). 
+Agronomy journal já com a correção da Errata.
+
+APSIM -
+RB72454 - Report AgMIP
+RB867515 - Marin 2015

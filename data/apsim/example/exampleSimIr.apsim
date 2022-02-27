@@ -1,0 +1,538 @@
+<folder version="36" creator="Apsim 7.8-r3867" name="simulations">
+  <factorial name="Factorials">
+    <active>0</active>
+    <settings />
+  </factorial>
+  <simulation name="SimulationSugar">
+    <metfile name="met">
+      <filename name="filename" input="yes">D:/Dropbox/Pesquisa/Projetos/futureSugar/data/weather/met/PIRA0QXX.met</filename>
+    </metfile>
+    <manager name="ClimateControl">
+      <ui>
+        <category type="category" description="Climate Control Window" />
+        <date1 type="ddmmmdate" description="Enter window START date (dd-mmm) : ">1-jan</date1>
+        <date2 type="ddmmmdate" description="Enter window END date (dd-mmm) : ">31-dec</date2>
+        <category type="category" description="Climate Change Parameters" />
+        <MaxtChange type="text" description="Change in maximum temperature (oC):">0</MaxtChange>
+        <MintChange type="text" description="Change in minimum temperature (oC):">0</MintChange>
+        <RainChange type="text" description="Relative change in daily rainfall (%):">0</RainChange>
+        <RadnChange type="text" description="Relative change in daily radiation (%):">0</RadnChange>
+        <CO2 type="text" description="Atmospheric CO2 Concentration (ppm)">350</CO2>
+      </ui>
+      <script>
+        <text>
+!  Adjust daily temperatures, rainfall and radiation up or down according to user-defined amounts
+! To apply different levels of climate control to different times of year add multiple copies of this logic into your simulation and change the window.
+
+if (date_within('[date1], [date2]') = 1) then
+   maxt = maxt + [MaxtChange]
+   mint = mint + [MintChange]
+   rain = rain + rain * [RainChange] / 100
+   radn = radn + radn * [RadnChange] / 100
+   co2 = [CO2]
+ endif
+            </text>
+        <event>prenewmet</event>
+      </script>
+      <script>
+        <text>co2 = [CO2]
+tav = tav + ([MaxtChange] + [MintChange]) / 2
+            </text>
+        <event>Init</event>
+      </script>
+    </manager>
+    <clock name="Clock">
+      <start_date type="date" description="Select the start date of the simulation">01/01/1980</start_date>
+      <end_date type="date" description="Select the end date of the simulation">31/12/1981</end_date>
+    </clock>
+    <summaryfile />
+    <area name="paddock">
+      <Soil name="Clayey">
+        <RecordNumber>0</RecordNumber>
+        <SoilType>Clayey soil</SoilType>
+        <Latitude>NaN</Latitude>
+        <Longitude>NaN</Longitude>
+        <YearOfSampling>0</YearOfSampling>
+        <DataSource>Marin 2011</DataSource>
+        <Comments>Dataset 2</Comments>
+        <InitialWater>
+          <FractionFull>1</FractionFull>
+          <DepthWetSoil>NaN</DepthWetSoil>
+          <PercentMethod>EvenlyDistributed</PercentMethod>
+          <RelativeTo>ll15</RelativeTo>
+        </InitialWater>
+        <Water>
+          <Thickness>
+            <double>200</double>
+            <double>200</double>
+            <double>600</double>
+            <double>1000</double>
+            <double>1000</double>
+            <double>1000</double>
+            <double>500</double>
+          </Thickness>
+          <BD>
+            <double>1.34</double>
+            <double>1.29</double>
+            <double>1.25</double>
+            <double>1.22</double>
+            <double>1.22</double>
+            <double>1.22</double>
+            <double>1.22</double>
+          </BD>
+          <AirDry>
+            <double>0.11</double>
+            <double>0.188</double>
+            <double>0.24</double>
+            <double>0.25</double>
+            <double>0.25</double>
+            <double>0.25</double>
+            <double>0.25</double>
+          </AirDry>
+          <LL15>
+            <double>0.22</double>
+            <double>0.235</double>
+            <double>0.24</double>
+            <double>0.25</double>
+            <double>0.25</double>
+            <double>0.25</double>
+            <double>0.25</double>
+          </LL15>
+          <DUL>
+            <double>0.36</double>
+            <double>0.355</double>
+            <double>0.343</double>
+            <double>0.335</double>
+            <double>0.335</double>
+            <double>0.335</double>
+            <double>0.335</double>
+          </DUL>
+          <SAT>
+            <double>0.52</double>
+            <double>0.495</double>
+            <double>0.473</double>
+            <double>0.47</double>
+            <double>0.47</double>
+            <double>0.47</double>
+            <double>0.47</double>
+          </SAT>
+          <KS>
+            <double>0.39</double>
+            <double>0.385</double>
+            <double>0.373</double>
+            <double>0.37</double>
+            <double>0.37</double>
+            <double>0.37</double>
+            <double>0.37</double>
+          </KS>
+          <SoilCrop name="sugar">
+            <Thickness>
+              <double>200</double>
+              <double>200</double>
+              <double>600</double>
+              <double>1000</double>
+              <double>1000</double>
+              <double>1000</double>
+              <double>500</double>
+            </Thickness>
+            <LL>
+              <double>0.22</double>
+              <double>0.235</double>
+              <double>0.24</double>
+              <double>0.25</double>
+              <double>0.25</double>
+              <double>0.25</double>
+              <double>0.25</double>
+            </LL>
+            <KL>
+              <double>0.15</double>
+              <double>0.15</double>
+              <double>0.1</double>
+              <double>0.08</double>
+              <double>0.08</double>
+              <double>0.08</double>
+              <double>0.08</double>
+            </KL>
+            <XF>
+              <double>1</double>
+              <double>1</double>
+              <double>1</double>
+              <double>1</double>
+              <double>1</double>
+              <double>1</double>
+              <double>1</double>
+            </XF>
+          </SoilCrop>
+        </Water>
+        <SoilWater>
+          <SummerCona>3.5</SummerCona>
+          <SummerU>6</SummerU>
+          <SummerDate>1-Nov</SummerDate>
+          <WinterCona>2.5</WinterCona>
+          <WinterU>4</WinterU>
+          <WinterDate>1-Apr</WinterDate>
+          <DiffusConst>40</DiffusConst>
+          <DiffusSlope>16</DiffusSlope>
+          <Salb>0.17</Salb>
+          <CN2Bare>84</CN2Bare>
+          <CNRed>20</CNRed>
+          <CNCov>0.8</CNCov>
+          <Slope>3</Slope>
+          <DischargeWidth>NaN</DischargeWidth>
+          <CatchmentArea>NaN</CatchmentArea>
+          <MaxPond>NaN</MaxPond>
+          <Thickness>
+            <double>200</double>
+            <double>200</double>
+            <double>600</double>
+            <double>1000</double>
+            <double>1000</double>
+            <double>1000</double>
+            <double>500</double>
+          </Thickness>
+          <SWCON>
+            <double>0.3</double>
+            <double>0.3</double>
+            <double>0.3</double>
+            <double>0.3</double>
+            <double>0.3</double>
+            <double>0.3</double>
+            <double>0.3</double>
+          </SWCON>
+        </SoilWater>
+        <SoilOrganicMatter>
+          <RootCN>50</RootCN>
+          <RootWt>500</RootWt>
+          <SoilCN>20</SoilCN>
+          <EnrACoeff>7.4</EnrACoeff>
+          <EnrBCoeff>0.2</EnrBCoeff>
+          <Thickness>
+            <double>200</double>
+            <double>200</double>
+            <double>600</double>
+            <double>1000</double>
+            <double>1000</double>
+            <double>1000</double>
+            <double>500</double>
+          </Thickness>
+          <OC>
+            <double>1.7</double>
+            <double>0.81</double>
+            <double>0.05</double>
+            <double>0.05</double>
+            <double>0.05</double>
+            <double>0.05</double>
+            <double>0.05</double>
+          </OC>
+          <FBiom>
+            <double>0.05</double>
+            <double>0.035</double>
+            <double>0.02</double>
+            <double>0.01</double>
+            <double>0.01</double>
+            <double>0.01</double>
+            <double>0.01</double>
+          </FBiom>
+          <FInert>
+            <double>0.4</double>
+            <double>0.5</double>
+            <double>0.7</double>
+            <double>0.95</double>
+            <double>0.95</double>
+            <double>0.95</double>
+            <double>0.95</double>
+          </FInert>
+          <OCUnits>Total</OCUnits>
+        </SoilOrganicMatter>
+        <Analysis>
+          <Thickness>
+            <double>200</double>
+            <double>200</double>
+            <double>600</double>
+            <double>1000</double>
+            <double>1000</double>
+            <double>1000</double>
+            <double>500</double>
+          </Thickness>
+          <Texture>
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+          </Texture>
+          <MunsellColour>
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+          </MunsellColour>
+          <PH>
+            <double>7</double>
+            <double>7</double>
+            <double>7</double>
+            <double>7</double>
+            <double>7</double>
+            <double>7</double>
+            <double>7</double>
+          </PH>
+          <CEC>
+            <double>5</double>
+            <double>3.2</double>
+            <double>2.7</double>
+            <double>2.7</double>
+            <double>2.7</double>
+            <double>2.7</double>
+            <double>2.7</double>
+          </CEC>
+          <ParticleSizeSilt>
+            <double>8.5</double>
+            <double>9</double>
+            <double>8</double>
+            <double>8</double>
+            <double>8</double>
+            <double>8</double>
+            <double>8</double>
+          </ParticleSizeSilt>
+          <ParticleSizeClay>
+            <double>50</double>
+            <double>54</double>
+            <double>57</double>
+            <double>57</double>
+            <double>57</double>
+            <double>57</double>
+            <double>57</double>
+          </ParticleSizeClay>
+          <PHUnits>Water</PHUnits>
+          <BoronUnits>HotWater</BoronUnits>
+        </Analysis>
+        <Sample name="Initial nitrogen">
+          <Thickness>
+            <double>200</double>
+            <double>200</double>
+            <double>600</double>
+            <double>1000</double>
+            <double>1000</double>
+            <double>1000</double>
+            <double>500</double>
+          </Thickness>
+          <NO3>
+            <double>1.6</double>
+            <double>1.6</double>
+            <double>1.6</double>
+            <double>1.6</double>
+            <double>1.6</double>
+            <double>1.6</double>
+            <double>1.6</double>
+          </NO3>
+          <NH4>
+            <double>0.2</double>
+            <double>0.2</double>
+            <double>0.2</double>
+            <double>0.2</double>
+            <double>0.2</double>
+            <double>0.2</double>
+            <double>0.2</double>
+          </NH4>
+          <SW>
+            <double>0.36</double>
+            <double>0.355</double>
+            <double>0.343</double>
+            <double>0.335</double>
+            <double>0.335</double>
+            <double>0.335</double>
+            <double>0.335</double>
+          </SW>
+          <NO3Units>ppm</NO3Units>
+          <NH4Units>ppm</NH4Units>
+          <SWUnits>Volumetric</SWUnits>
+          <OCUnits>Total</OCUnits>
+          <PHUnits>Water</PHUnits>
+        </Sample>
+      </Soil>
+      <surfaceom name="SurfaceOrganicMatter">
+        <PoolName type="text" description="Organic Matter pool name">palha</PoolName>
+        <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">sugar</type>
+        <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+        <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+        <cpr type="text" description="C:P ratio of initial residue (optional)" />
+        <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+      </surfaceom>
+      <sugar>
+        <ini>
+          <filename input="yes">D:/Dropbox/Pesquisa/Projetos/futureSugar/data/cultivar/Sugar.xml</filename>
+        </ini>
+      </sugar>
+      <irrigation name="Irrigation">
+        <automatic_irrigation type="list" listvalues="on,off" description="Automatic irrigation">off</automatic_irrigation>
+        <asw_depth type="text" description="Depth to which ASW is calculated. (mm)">1000</asw_depth>
+        <crit_fr_asw type="text" description="Fraction of ASW below which irrigation is applied (0-1.0)">0.4</crit_fr_asw>
+        <irrigation_efficiency type="text" description="Efficiency of the irrigation. (0-1.0)">1</irrigation_efficiency>
+        <irrigation_allocation type="list" listvalues="on,off" description="Allocation limits">off</irrigation_allocation>
+        <allocation type="text" description="Allocation in mm">0</allocation>
+        <default_no3_conc type="text" description="Nitrate concentration (ppm N)">0.0</default_no3_conc>
+        <default_nh4_conc type="text" description="Ammonium concentration (ppm N)">0.0</default_nh4_conc>
+        <default_cl_conc type="text" description="Chloride concentration (ppm Cl)">0.0</default_cl_conc>
+      </irrigation>
+      <folder name="Manager folder">
+        <manager name="sugar_management">
+          <ui>
+            <category type="category" description="Sugar1 plant crop management parameters" />
+            <crop type="crop" description="Enter name of crop to sow : ">sugar</crop>
+            <planting_day type="ddmmmdate" description="Enter planting date (dd-mmm) : ">15-may</planting_day>
+            <plantlen type="text" description="Duration of a plant crop (days) (30 days/month * 15 months) : ">365</plantlen>
+            <plant_stalks type="text" description="Stalk density of plant crop (/m2) :">10</plant_stalks>
+            <variety type="list" listvalues="q117,q96,q138,ts65-28,h73,q141,nco376,n12,n14,cp51,r570,m1356,m55560,q124" description="Planting variety :">rb72454</variety>
+            <sowing_depth type="text" description="Planting depth mm) :">150</sowing_depth>
+            <category type="category" description="Ratoon management parameters" />
+            <NoRatoons type="text" description="Number of ratoons (max = 5): ">0</NoRatoons>
+            <ratoonlen type="text" description="Duration of a ratoon crop (days) (30 days/month * 13 months) : ">365</ratoonlen>
+            <ratoon_stalks type="text" description="Stalk density of ratoon crop (/m2) :">10</ratoon_stalks>
+            <category type="category" description="Dryoff config" />
+            <irrigstart type="text" description="How many das should irrigation be applied :">30</irrigstart>
+            <dryoff type="text" description="Number of days before harvest to stop irrigating :">98</dryoff>
+            <irrigatemodule type="modulename" description="Module used to apply the irrigation :">Irrigation</irrigatemodule>
+          </ui>
+          <script>
+            <text>
+            nextcrop = 0
+            fallowin = 0
+            ratoonlen = 0
+            plantlen = 0
+            </text>
+            <event>init</event>
+          </script>
+          <script>
+            <text>
+            ! -----------------------------------------------------------------
+            ! Book keeping to round days to integer values
+            plantlen = nearest_int(plantlen)
+            ratoonlen = nearest_int(ratoonlen)
+
+            ! Initialise and set a time counter for entire run
+            dah = 0
+
+            if (sugar.crop_status = 'alive') then
+               dah = 0
+
+               ! Limited irrigation before harvesting and irrigation only happens while crop is alive
+
+               stopIrr = [plantlen] - [dryoff]
+
+               if (daysaftersowing &lt; [irrigstart]) then
+                  irrigation set automatic_irrigation = off
+               elseif (daysaftersowing &gt; stopIrr) then
+                  irrigation set automatic_irrigation = off
+               else 
+                  irrigation set automatic_irrigation = on
+               endif
+
+               ! Set harvest dates for each crop phase
+               if (sugar.DaysAfterSowing = [plantlen] and ratoon_no = 0) or
+                  (sugar.DaysAfterSowing = [ratoonlen] and ratoon_no &gt; 0) then
+
+                  sugar harvest
+
+                  if (ratoon_no = [NoRatoons] + 1) then
+                     ! plough the crop out
+                     sugar kill_crop
+                     sugar end_crop
+
+                  else
+                     ! Set stalk density
+                     sugar.plants = [ratoon_stalks]
+                  endif
+               else
+                  ! We have not reached the harvest date for this ratoon.
+               endif
+
+            elseif (sugar.crop_status = 'dead') then
+               sugar harvest
+               sugar end_crop
+
+            elseif (sugar.crop_status = 'out') and (today = date('[planting_day]') then
+               sugar sow plants = 10 (), cultivar = [variety], sowing_depth = [sowing_depth]
+               sugar.plants = [plant_stalks]
+               dah = 0
+
+            else
+               dah = dah + 1
+            endif
+               </text>
+            <event>start_of_day</event>
+          </script>
+        </manager>
+      </folder>
+      <outputfile>
+        <filename output="yes">SimulationSugar.out</filename>
+        <title>SimulationSugar</title>
+        <variables name="Variables">
+          <variable>day_of_year</variable>
+          <variable>simulation_days</variable>
+          <variable>daysaftersowing</variable>
+          <variable>year</variable>
+          <variable>biomass</variable>
+          <variable>canefw</variable>
+          <variable>cane_wt</variable>
+          <variable>sucrose_wt</variable>
+          <variable>ccs</variable>
+          <variable>scmst</variable>
+          <variable>scmstf</variable>
+          <variable>cabbage_wt</variable>
+          <variable>green_biomass</variable>
+          <variable>esw</variable>
+          <variable>lai</variable>
+          <variable>nfact_photo</variable>
+          <variable>root_depth</variable>
+          <variable>stagename</variable>
+          <variable>CO2</variable>
+          <variable>day_length</variable>
+          <variable>MaxT</variable>
+          <variable>MinT</variable>
+          <variable>Radn</variable>
+          <variable>Rain</variable>
+          <variable>es</variable>
+          <variable>eo</variable>
+          <variable>biomass</variable>
+          <variable>cane_dmf</variable>
+          <variable>cover_green</variable>
+          <variable>cover_tot</variable>
+          <variable>dlt_dm</variable>
+          <variable>dlt_dm_green</variable>
+          <variable>dm_dead</variable>
+          <variable>ep</variable>
+          <variable>height</variable>
+          <variable>lai_sum</variable>
+          <variable>lai2</variable>
+          <variable>leaf_wt2</variable>
+          <variable>leafgreenwt</variable>
+          <variable>plants</variable>
+          <variable>radn_int</variable>
+          <variable>rootgreenwt</variable>
+          <variable>senescedn</variable>
+          <variable>senescedwt</variable>
+          <variable>sstem_wt</variable>
+          <variable>slai</variable>
+          <variable>stage_code</variable>
+          <variable>sw_demand</variable>
+          <variable>sw_demand_te</variable>
+          <variable>swdef_expan</variable>
+          <variable>swdef_pheno</variable>
+          <variable>swdef_photo</variable>
+          <variable>swdef_stalk</variable>
+          <variable>tla</variable>
+          <variable>tlai</variable>
+          <variable>irrigation</variable>
+        </variables>
+        <events name="Reporting Frequency">
+          <event>end_day</event>
+        </events>
+      </outputfile>
+    </area>
+  </simulation>
+</folder>

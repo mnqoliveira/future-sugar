@@ -1,0 +1,2 @@
+Obtained with v2 from the AgMIP Tools
+http://tools.agmip.org/acsgtr.php

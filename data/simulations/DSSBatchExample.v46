@@ -1,0 +1,11 @@
+$BATCH(SEASONAL)
+!
+! Directory    : C:\DSSAT46\Seasonal
+! Command Line : C:\DSSAT46\DSCSM046.EXE N DSSBatch.v46
+! Crop         : Seasonal        
+! Experiment   : JACA1111.SNX
+! ExpNo        : 1
+! Debug        : C:\DSSAT46\DSCSM046.EXE " N DSSBatch.v46"
+!
+@FILEX                                                                                        TRTNO     RP     SQ     OP     CO
+C:\DSSAT46\Seasonal\JACA1111.SNX                                                                  1      1      0      0      0

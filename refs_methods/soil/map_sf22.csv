@@ -1,0 +1,603 @@
+CD_FCIM,ID_PONTO,TIPO_PONTO,LATITUDE,LONGITUDE,FONTE,ORDEM,SUBORDEM,GDE_GRUPO,SUBGRUPO,TEXTURA,HORIZONTE,SAT_ALUM,FSE_EROSAO,FSE_PEDREG,FSE_ROCHOS,FSE_VEGET,FSE_RELEVO,RELEVO,RELEVO_REG,PEDREGOSID,ROCHOSID,DRENAGEM,EROSAO,LOCALIZ,SITU_DECLI,LITOLOGIA,MAT_ORIGIN,VEGE_PRIM,USO,HORIZONTES,GMRotation,ORIG_FID,POINT_X,POINT_Y
+SF22,SF22ZD/P.6,P,-23:46:01,-49:15:57,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"A 2 km da estrada Itapeva  - Taquarituba, em dire?º?úo  a Toriba do Sul.Itaber?í,SP. Lat:23??46'S e Long:49??15'WGr.Folha SF.22ZD.",,,,,,"Ap
+ AB
+ BA
+ Bt",1.02892969064,0,-49.26595542960,-23.76705500000
+SF22,SF22ZD/P.5,P,-23:53:16,-49:02:26,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Distr??fico,ar?¬nico abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,Forma?º??es Pioneiras com influ?¬ncia fluvial e / ou lacustre,forte ondulado,forte ondulado,ondulado,n?úo pedregosa,n?úo rochosa,moderadamente drenado,moderada,"Estrada Itapeva a Itaber?í, a 25,1Km de Itapeva.Itabera?¡,SP. LAT:23??53'S e LONG:49??02'WGr.Folha SF.22-ZD.",Corte de estrada no topo  de eleva?º?úo com 40 a 50 % de declive.,"Arenitos,diamictitosesiltitosesecundariamenteritmitosefolhelhos.GrupoItarar??Indiviso.SuperGrupoTubar?úo.Per?¡odo:Permo-carbon?¡fero.","Produto da meteoriza?º?úo de rochas locais, provavelmente arentos finos.",Forma?º?úo Pioneira Fluvial de Contato,Pastagem,"A
+ E
+ BE
+ Bt1
+ Bt2
+ C",1.07768274598,1,-49.04053059530,-23.88779020790
+SF22,SF22ZD/P.7,P,-23:53:25,-48:52:29,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Itapeva  - Guarizinho, a 10Km do trevo de Itapeva. Itapeva,SP. Lat:23??46'S e Long:49??15'WGr.Folha SF.22-ZD.",,,,,,"Ap
+ BA
+ Bw1
+ Bw2",1.11369941886,2,-48.87477271010,-23.89026335570
+SF22,SF22VD/E.8,E,-21:45:09,-51:54:11,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,,,,,,"Estrada Panorama-Cer?ómica Panorama. Munic?¡pio de Panorama, Estado de S?óo Paulo. Lat. 21??45' Sul e Long. 51??54' WGr.",,,,,,"Ap
+ Bt1
+ Bt2",0.45787912936,3,-51.90310250730,-21.75237867200
+SF22,SF22XC/E.5,E,-21:20:16,-49:48:13,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distrof??rrico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,,,plano,,n?úo pedregosa,n?úo rochosa,,,"A 5 km do trevo da usina Promiss?úo,a 11km de Bilac.Gabriel Monteiro-SP. Lat. 22??20' S e Long. 49??48' WGr.",,,,,,Bw2,0.91744204239,4,-49.80367200170,-21.33774241860
+SF22,SF22YC/E.2,E,-23:09:20,-53:47:45,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,PLANOSSOLO,H?üPLICO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A proeminente,?ílico,n?úo erodida,n?úo pedregos,n?úo rochosa,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,mal drenado,n?úo aparente,"Estrada Porto Caiu?í - Navira?¡, a 18 Km da margem do rio Paran?í.Navira?¡,MS.Lat:23??09'S e Long:53??48'WGr.","Coletado na v?írzea do rio Paran?í,com 0 a 1 % de declive.","Areias,siltes e argilas,cascalhos.Dep??sitos das plan?¡cies de inunda?º?úo.Quatern?írio. Holoceno.",Sedimentos do Quatern?írio.,Savana Graminosa.,Pastagem natural.,"A
+ E
+ Bt",0.04437977116,5,-53.79579773810,-23.15558472150
+SF22,SF22YC/E.1,E,-23:07:03,-53:04:20,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,,Distr??fico,,m??dia sem cascalho / m??dia sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,,,,,,"Estrada Santa M??nica  - Comur,a 13 Km de Santa M??nica.Municipio de Santa Isabel do Iva?¡.Estado do Paran?í.Lat:23??07'S e Long:53??05'WGr.",,,,,,"A
+ Bt1
+ Bt2
+ Bt3",0.20188867122,6,-53.07216782260,-23.11757311650
+SF22,SF22YC/E.3,E,-23:09:48,-52:34:22,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,,Tb Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Paranava?¡ - Tamboara, a 10 Km de Paranava?¡,entrar a 6 Km ?á direita.Nova Alian?ºa do Iva?¡, PR. Lat:23??10'S e Long:52??33'WGr.Folha SF.22-YC.",,,,,,"Ap
+ E1
+ E2
+ Bt1
+ Bt2",0.31057458664,7,-52.57267058140,-23.16346225060
+SF22,SF22YC/E.4,E,-23:10:25,-52:31:19,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,,,"Estrada Paranava?¡ - Tamboara, a 12 Km de  Paranava?¡,entrar 2 Km ?á direita.Tamboara,PR. Lat:23??10'S e Long:52??31'WGr.",,,,,,"Ap
+ BA
+ Bt1
+ Bt2",0.32158034952,8,-52.52207040600,-23.17372149500
+SF22,SF22YC/E.5,E,-23:23:08,-52:42:37,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutrof??rrico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,,,,,,"Estrtada Paraiso do Norte  - Rondon, a 16 Km de Paraiso do Norte.Para?¡so do Norte,PR.Lat:23??23'S e Long:52??42'WGr.",,,,,,"A
+ Bt1
+ Bt2
+ Bt3
+ BC",0.28049424451,9,-52.71021664220,-23.38555788020
+SF22,SF22YC/E.6,E,-23:44:03,-53:07:38,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Distr??fico,,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Cruzeiro do Oeste - Umuarama,a 2 Km de Cruzeiro do Oeste.Cruzeiro do Oesdte,PR.Lat :23??44'S e Long:53??08'WG.r.",,,,,,"Ap
+ E
+ Bt1
+ Bt2",0.18963006819,10,-53.12729770090,-23.73427884760
+SF22,SF22YC/E.9,E,-23:48:09,-53:00:37,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Cruzeiro do Oeste - Tapejara, a 3 Km de Cruzeiro do Oeste.Cruzeiro do Oeste,PR.Lat:23??48'S e Long:53??01'WGr.",,,,,,"A
+ E
+ BA
+ Bt1
+ Bt2",0.21505266663,11,-53.01023758770,-23.80255209070
+SF22,SF22YC/E.7,E,-23:44:47,-52:50:09,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Distr??fico,ar?¬nico,arenosa sem cascalho / m??dia sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,,,"Estrada Tapejara -Tuneiras d ' Oeste, a 2 Km de Tapejara.Tapejara,PR.Lat:23??45'S e Long:52??50'WGr.",,,,,,"Ap
+ E
+ BA
+ Bt1
+ Bt2
+ Bt3
+ BC",0.25300341617,12,-52.83574742340,-23.74646633240
+SF22,SF22YC/E.8,E,-23:44:47,-52:41:25,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,,,"Estrada Cianorte - Cruzeiro do Oeste ,a 12 Km de Cianorte.Cianorte,PR. Lat:23??45'S e Long:52??41'WGr.",,,,,,"A
+ AB
+ BA
+ Bw1
+ Bw2",0.28464457940,13,-52.69018049310,-23.74627053570
+SF22,SF22YC/E.10,E,-23:57:48,-52:34:43,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,m??dia sem cascalho / argilosa sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Campo Mour?úo - Cruzeiro d' Oeste,a 15 Km de Campo Mour?úo.Araruna,PR.Lat:23??58'S e Long:52??35'WGr.",,,,,,"A
+ Bt",0.30877394100,14,-52.57851310690,-23.96337392420
+SF22,SF22VA/E.2,E,-20:31:38,-52:37:56,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,epi?ílico,,,,,suave ondulado,suave ondulado,plano suave ondulado,,,acentuadamente drenado,moderada,"Estrada ?ügua Clara-Tr?¬s Lagoas, a 13 km do rio Pombo. Munic?¡pio de ?ügua Clara, Estado do Mato Grosso do Sul. Lat. 20??31' Sul e Long. 52??37' WGr.","Coletado em topo de eleva?º?úo com pendentes de centenas de metros, com 2 a 4% de declividade.",Arenitos. Grupo Bauru. Forma?º?úo Caiu?í.,Arenitos.,Savana,Reserva Florestal,"A
+ Bw",0.29970715477,15,-52.63226521670,-20.52716927370
+SF22,SF22VA/E.3,E,-20:39:08,-53:26:38,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,?ôrtico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,A moderado,epi?ílico,,,,,plano,plano,suave ondulado,,,acentuadamente drenado,ligeira,"Rodovia Campo Grande-Tr?¬s Lagoas, a 12,8 km ap??s a Bsarragem do Mimoso. Munic?¡pio de Ribas do Rio Pardo, Estado do Mato Grosso do Sul. Lat. 20??39' Sul e LOng. 53??26"" WGr.",Coletado em ter?ºo m??dio de eleva?º?úo com 2 a 3% de declividade.,Arenitos. Grupo Bauru. Forma?º?úo Caiu?í.,Arenitos.,Savana,Reflorestamento com eucalipto,"Ap
+ C",0.12179064162,16,-53.44388698360,-20.65227573270
+SF22,SF22VA/E.1,E,-20:41:32,-52:36:34,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,?ôrtico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,A moderado,,,,,,plano,plano,suave ondulado,n?úo pedregosa,n?úo rochosa,fortemente drenado,ligeira,"?Ç 19 km da BR-262, em dire?º?úo  ?á Santa Rita do Pardo, na estrada para a Faz. Transparan?í. Brasil?óndia-MS.Lat. 20?? 41' Sul e Long. 52??37' WGr.",Ter?ºo superior de enconta com 1% de declividade.,Arenitos. Grupo Bauru - Forma?º?úo Santo Anast?ício. Cret?íceo.,Produto da meteoriza?º?úo de Arenitos.,Savana Gram?¡neo Lenhosa,Reflorestamento com Eucalipto,"A
+ C",0.30453822265,17,-52.60950666540,-20.69234102630
+SF22,SF22VB/E.14,E,-20:57:18,-52:27:52,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,plano,plano,plano suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"Estrada Arapu?ú-Fazenda Gameleira, 10 km antes da sede da Fazenda Gameleira. Munic?¡pio de Brasil?óndia, Estado do Mato Grosso do Sul. Lat. 20??57' Sul e Long. 52??28' WGr.",Coletado em ter?ºo superior de eleva?º?úo com 2% de declividade e sob cobertura de savana.,Arenitos. Grupo Bauru. Forma?º?úo Caiu?í. Cret?íceo.,Arenitos.,Savana Florestada,Reserva Florestal,"A
+ Bw",0.33603900872,18,-52.46450993850,-20.95511914580
+SF22,SF22VB/E.10,E,-20:39:24,-52:16:57,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LUVISSOLO,CR?öMICO,?ôrtico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,moderada,"Estrada Tr?¬s Lagoas-?ügua Clara, ?á 67 km de Tr?¬s Lagoas. Munic?¡pio de Tr?¬s Lagoas, Estado de Mato Grosso do Sul. Lat. 20??39' Sul  e Long. 52??17' WGr.","Coletado em corte de estrada, no ter?ºo inferior de eleva?º?úo com 7% de declividade e sob cobertura de Floresta.",Arenitos. Grupo Bauru. Forma?º?úo Adamantina. Cret?íceo.,Arenitos,Contato Savana/Floresta,Pastagem natural,"A
+ Bt",0.37621444219,19,-52.28249036400,-20.65656393830
+SF22,SF22VB/E.11,E,-20:38:13,-52:13:53,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,suave ondulado ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"A 8 km de Garcias e a 3 km da estrada Tr?¬s Lagoas-Campo Grande. Tr?¬s Lagoas, MS. Lat. 20??38' Sul e Long. 52??14' WGr.",Ter?ºo superior de pequena eleva?º?úo com 8% de declividade e sob cobertura de Savana.,Arenitos. Grupo Bauru. Forma?º?úo Adamantina. ret?íceo.,Arenitos.,Savana,Pastagem nativa,"A
+ Bt",0.38740264509,20,-52.23148410140,-20.63695536140
+SF22,SF22VB/E.15,E,-20:59:44,-51:50:55,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / argilosa sem cascalho,A moderado,?ílico,,,,,plano,plano,plano suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,ligeira,"Estrada Tr?¬s Lagoas-Brasil?óndia, ?á 26 km de Tr?¬s Lagoas. Munic?¡pio de Tr?¬s Lagoas, Estado de Mato Grosso do Sul. Lat.20??59'55"" Sul e Long.51??51'00""r.",Coletado em local com 2% de declividade e sob cobertura de Savana.,Arenitos. Grupo Bauru. Forma?º?úo Caiu?í. Cret?íceo.,Arenitos.,Savana Florestada,Pastagem plantada de brachi?íria,"A
+ Bw",0.47080084170,21,-51.84853625730,-20.99552500200
+SF22,SF22VB/P.4,P,-20:58:32,-51:44:50,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,?ôrtico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,A moderado,epi?ílico,,,,,plano,plano,plano,,,fortemente drenado,n?úo aparente,"?Ç 7,5 km da estrada Brasil?óndia-Tr?¬s Lagoas, pr??ximo ?á fazenda S?ú Sebasti?úo. Munic?¡pio de Tr?¬s Lagoas, Estado de Mato Grosso do Sul. Lat. 20??58' Sul e Long. 51??45' WGr.",Coletado em local com 2% de declividade.,Arenitos. Grupo Bauru. Form?º?úo Caiu?í.,Arenitos.,Savana,Pastaegm de brachi?íria,"Ap
+ C1
+ C2",0.49300058794,22,-51.74721057910,-20.97545505410
+SF22,SF22VB/P.1,P,-20:56:59,-51:49:42,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,PLANOSSOLO,H?üPLICO,Distr??fico,gleiss??lico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,Forma?º??es Pioneiras,plano,plano,plano,n?úo pedregosa,n?úo rochosa,mal drenado,n?úo aparente,"Estrada Tr?¬s Lagoas-Brasil?óndia, ?á 23 km de Tr?¬s Lagoase ?á  200 metros do c??rrego da Moeda. Munic?¡pio de Tr?¬s Lagoas /MS.",Trincheira em v?írzea com 0 a 1% de declividade sob cobertura de gramineas.,"Areias, argilas e cascalhos incosolidados. Dep??sitos Aluvion?írios Recentes do Quatern?írio.",Sedimentos areno-argilosos,Forma?º?úo Pioneira Fluvial,Pastagem,"A11
+ A12
+ E
+ Btg1
+ Btg2",0.47529681426,23,-51.82830434170,-20.94981335870
+SF22,SF22VB/E.12,E,-20:48:25,-51:50:02,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,plano suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"Estrada ?ügua Clara-Tr?¬s Lagoas. Munic?¡pio de Tr?¬s Lagoas, Estado do Mato Grosso do Sul. Lat. 20??48' Sul e Long. 51??50' WGr.","Coletado em ter?ºo m??dio com 3,5% de declividade e sob cobertura de savana.",Areniros. Grupo Bauru. Forma?º?úo Santo Anast?ício. Cret?íceo.,Arenitos.,Savana Arborizada,Pastagem plantada de brachi?íria,"A
+ Bw",0.47426133439,24,-51.83396332330,-20.80684622020
+SF22,SF22VB/E.13,E,-20:49:04,-51:34:18,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,planoss??lico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,plano suave ondulado,n?úo pedregosa,n?úo rochosa,imperfeitamente drenado,n?úo aparente,"Estrada Tr?¬s Lagoas-?ügua Clara, a 01 km de Tr?¬s Lgoas. Munic?¡pio de Tr?¬s Lagoas, Estado do Mato Grosso do Sul. Lat. 20??49' Sul e LOng. 51??34' WGr.",Coletado em local plano com 1% de declividade e sob cobertura de Savana.,Arenitos. Grupo Bauru. Forma?º?úo Caiu?í. Cret?íceo.,Arenitos.,Savana Parque,Pastagem nativa,"A
+ Bw",0.53170555120,25,-51.57152926070,-20.81767231480
+SF22,SF22VB/P.3,P,-20:54:23,-51:40:39,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,plano,plano,plano suave ondulado,,,bem drenado,n?úo aparente,"A 10 km da estrada Tr?¬s Lagoas-Brasil?óndia, pr??ximo ?á Fazenda Santa Cruz. Munic?¡piode Tr?¬s Lagoas, Estado de Mato Grsso do Sul.Lat. 20??54' Sul e 51??40'WGr.",Coletado em meia encosta de eleva?º?úo com 3% de declividade e sob cobertura de pastagem.,"Areias, siltes e argilas. Quatern?írio, Holoceno.",Sedimentos argilosos e arenosos.,Savana,Pastagem de brachi?íria,"Ap
+ Bt1
+ Bt2",0.50838084375,26,-51.67745735290,-20.90634396620
+SF22,SF22VB/P.2,P,-20:51:48,-51:33:59,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,plano suave ondulado,,,acentuadamente drenado,ligeira,"Estrada Tr?¬s Lagoas-Basil?óndia, a 300 m do c??rrego Palmito. Munic?¡pio de Brasil?óndia, Estado de Mato Grosso do Sul. Lat. 20??51' Sul e Long. 51??34' WGr.","Ter?ºo m??dio de pendente longa, com 5% de declividade.",renito. Grupo Bauru. Forma?º?úo Caui?í.,Arenitos.,Savana Densa/Floresta,Pastagem de brachi?íria,"Ap
+ AB
+ BA
+ Bw",0.53278270955,27,-51.56627433340,-20.86331069560
+SF22,SF22VB/E.3,E,-20:58:33,-51:36:14,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,,,,,,"Pr??ximo da Fazenda Santa Helena, na estrada vicinal em dire?º?úo a Fazenda Paiol Novo. Munic?¡pio de Castilho, Estado de S?âO Paulo. Lat. 20??58' Sul e Long. 51??36' WGr.",,,,,,"A
+ Bt1
+ Bt2",0.52436679616,28,-51.60395593990,-20.97590331100
+SF22,SF22VB/E.1,E,-20:51:41,-51:26:52,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,Floresta Estacional Semidecidual,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,forte,"?Ç 2,8 Km de Paran?ípolis. Munic?¡pio de Andradina, Estado de S?úo Paulo. Lat. 20??51' Sul e Long 51?? 26'Wgr.",Ter?ºo m??dio de eleva?º?úo com 5% de declividade e sob cobertura de gram?¡niea.,"Arenitos podendo conter f??sseis, cimentos ou n??dulos calc?¡ticos. Forma?º?úo  Adamantina. Grupo Bauru. Cret?íceo.",Arenito com cimenta?º?úo calc?¡tica.,Floresta Estacional Semidecidual,Pastagem de capim coloni?úo,"A
+ Bt",0.55872677240,29,-51.44778894570,-20.86146304450
+SF22,SF22VB/E.2,E,-20:40:22,-51:34:14,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,plano,plano,,,,,,"Rodovia Marechal Rondon, a 6 km da ponte de Francisco S?í, em dire?º?úo a Junqueira. Munic?¡pio de Castilho Estdo de S?úo Paulo. Lat. 20??40' Sul e Long. 51??34' WGr.",,,,,,"Ap
+ Bw1
+ Bw2",0.53214656624,30,-51.57058355250,-20.67277723630
+SF22,SF22VB/E.8,E,-20:40:37,-51:04:05,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,epi?ílico,,,,,plano,plano,,,,,,"A 8 km do trevo de Preira Barreto ( dire?º?úo sudeste). Munic?¡pio de Preira Barrto, Estado de S?úo Paulo. Lat. 20??40' Sul e Long. 51??04' WGr.",,,,,Cultura anual e pastagem plantada,"Ap
+ AB
+ Bw1
+ Bw2",0.64222763607,31,-51.06807444500,-20.67708089660
+SF22,SF22VB/E.9,E,-20:57:58,-51:05:15,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,moderada,"A 2,8 km de Roteiro ( 2?¬ Alian?ºa ) em dire?º?úo ?á 3?¬ Alian?ºa. Munic?¡pio de Mirand??polis, Estado de Sa?úo Paulo. Lat. 20??57' Sul e Long. 51??05' WGr.",Ter?ºo m??dio de eleva?º?úo com 4 % de declividade e sob cobertura de Capim coloni?úo.,Arenitos.,Arenitos.,Floresta,Brachi?íria e eucalipto,"A
+ Bt",0.63741783047,32,-51.08746849990,-20.96597543530
+SF22,SF22VB/E.7,E,-20:35:40,-51:04:03,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,,,,,,"Estrada Pereira Barreto-rio S?úo Jos?? dos Dourados, pr??ximo ao canal de Pereira Barreto. Munic?¡pio de Pereira Barreto, Estado de Sa?úo Paulo. Lat. 20??35' Sul e Long. 51??04 WGr.",,,,,Cultura anual,"Ap
+ Bt1
+ Bt2",0.64252050937,33,-51.06744230500,-20.59441268980
+SF22,SF22VB/E.4,E,-20:10:16,-51:44:03,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,?ôrtico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,fortemente drenado,moderada,"A 75 km de Tr?¬s Lagoas na estrada para Inoc?¬ncia e 10 km a direita em dire?º?úo ?á fazenda Alegrete. Munic?¡pio de Tr?¬s Lagoas, Estado do Mato Grosso do Sul. Lat. 20??10' Sul e Long. 51??44' WGr.",Ter?ºo inferior de pendente com 5% de declividade e sob cobertura de savana florestada.,Arenitos. Grupo Bauru. Forma?º?úo Caiu?í. Cret?íceo.,Arenitos.,Contato  Savana/Floresta,Pastagem de brachi?íria,"A
+ C",0.49707124298,34,-51.73423300170,-20.17112378230
+SF22,SF22VB/E.5,E,-20:09:00,-51:11:58,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,fortemente drenado,moderada,,,Arenitos. Grupo Bauru. Forma?º?úo Adamantina. Cret?íceo.,Arenitos.,Contato Savana/Floresta,Pastagem plantada,Bw,0.61443783375,35,-51.19950137410,-20.15002394920
+SF22,SF22VB/E.6,E,-20:06:21,-51:04:01,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,bem drenado,ligeira,"Estrada Aparecida do Taboado-Porto Itamarati, a 2 km de Aparecida do Taboado, Munic?¡pio do Taboado, Estado do Mato Grosso do Sul. Lat. 20??06' Sul e Long. 51??04' WGr.",Coletado em local plano com 2% de declividade e sob cobertura de Savana Florestada.,Arenitos. Grupo Bauru. Forma?º?úo Adamantina. Cret?íceo.,Arenitos.,Savana Florestada,Pastagem natural,"A
+ Bw",0.64360036623,36,-51.06704552320,-20.10594969300
+SF22,SF22VB/P.5,P,-20:00:35,-51:05:08,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distrof??rrico,t?¡pico,argilosa sem cascalho / muito argilosa sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,fortemente drenado,ligeira,"Estrada do Taboado- Parana?¡ba, a 6 km do entrocamento e a 500 metros do c??rrego Formoso. Munic?¡pio de Aparecida do Taboado, Estado do Mato Grosso do Sul. Lat. 20??00' Sul e Long. 51??05' WGr.","Coletado em corte de estrada, no ter?ºo inferior de encosta com 5% de declividade e sob cobertura de Savana Florestada.",Basaltos e diab?ísios. Grupo S?úo Bento. Forma?º?úo Serra Geral. Jur?íssico-Cret?íceo.,Basaltos e diab?ísios.,Savana Florestada,Pastagem de capim jaragu?í,"A
+ AB
+ BA
+ Bw1
+ Bw2",0.63971385982,37,-51.08563578920,-20.00984041290
+SF22,SF22VC/E.5,E,-21:30:43,-53:47:55,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,epi?ílico,erodida,n?úo pedregos,n?úo rochosa,Savana,plano,plano,plano suave ondulado,n?úo pedregosa,n?úo rochosa,fortemente drenado,ligeira,"A 13 Km do rio Anhandu?¡,na estrada para a Fazenda Santa l??cia.Campo Grande,MS. Lat:21??30'S e Long:53??48'WGr.",Equipe,Arenitos. Grupo Bauru.Forma?º?úo Caiu?í.Cret?íceo.,Produto da meteoriza?º?úo de arenitos.,Savana Florestada,Pastagemcombrachi?íria,"Ap
+ Bw",0.04393778367,38,-53.79867875000,-21.51190900570
+SF22,SF22VC/P.1,P,-21:36:29,-53:18:15,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,PLANOSSOLO,H?üPLICO,Distr??fico,gleiss??lico,arenosa sem cascalho / m??dia sem cascalho,A proeminente,,,,,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,mal drenado,n?úo aparente,"V?írzea do rio Anhandu?¡, a 14 km da estrada Presidente Epit?ício-Campo Grande e pr??ximo ao c??rrego Douradinho. Munic?¡pio de Andradina, Estado do Mato Grosso. Lat. 21??36' Sul e Long. 53?? 18' Wgr.","V?írzea com 0,5% de declividade e sob cobertura de gramineas.","Areias, argilas e cascalhos incosolidados. Dep??sitos Aluvionares recentes. Quatern?írios.",Sedimentos areno-argilosos.,Forma?º?úo Pioneira Fluvial,Pastagem natural,"A
+ E
+ Btg",0.15195456564,39,-53.30422253970,-21.60809781450
+SF22,SF22VC/E.3,E,-21:16:41,-53:01:54,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,PLANOSSOLO,H?üPLICO,Distr??fico,gleiss??lico,arenosa sem cascalho / m??dia sem cascalho,A moderado,?ílico,n?úo erodida,n?úo pedregos,n?úo rochosa,Savana,plano,plano,plano,n?úo pedregosa,n?úo rochosa,imperfeitamente drenado,n?úo aparente,"Estrada Santa Rita do Pardo -Rio Pardo, a 16Km ap??s o entroncamento com a fazenda Transparan?í.Munic?¡pio de Brasil?óndia,MS.Lat:21??16'S e Long:53??02'WGr.",Coletado em ?írea plana com declive inferior a 2 % e sob cobertura de  campo  de .v?írzea,"Areias,siltes,argilasecascalhos.Dep??sitosaluviaisareno-argilosos.Quatern?írio,Holoceno.",Sedimentos areno-argilosos.,Savana Gram?¡nea Lenhosa,Pastagemnativa,"A
+ Btg",0.21168615397,40,-53.03172530900,-21.27807327830
+SF22,SF22VC/E.2,E,-21:12:41,-52:48:16,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Ta Distr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,?ílico,erodida,n?úo pedregos,n?úo rochosa,Savana,suave ondulado,suave ondulado,suave ondulado ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,moderada,"Estrada Santa Rita do Pardo - Fazenda Transparan?í,a 22 km de Santa Rita do Pardo.munic?¡pio de Brasil?óndia,Estado do Mato Grosso do Sul.Lat:21??12'S e Log:52??48' WGr.",Ter?ºo m??dio de eleva?º?úo com 8% de declive e sob cobertura de gram?¡neas.,Arenitos.GrupoBauru.Forma?º?úoSantoAnast?ício.Cret?íceo.,Produto de meteoriza?º?úo de arenitos.,Savana,Pastagemplantadadebrachi?íria,"Ap
+ Bt",0.26143096258,41,-52.80448730570,-21.21140142970
+SF22,SF22VC/E.1,E,-21:18:46,-52:45:55,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LUVISSOLO,P?ëTRICO,P?ílico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,ondulado suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,ligeira,"Estrada Santa Rita do Pardo-Brasilandia, ?á 6 Km de SAnta Rita do Pardo. Munic?¡pio de Brasil?óndia, Estado de Mato Grosso do Sul. Lat. 21??18' Sul e long.52?? 46' Wgr.",Trincheira no ter?ºo m??dio de encosta com 7% de decrividadee sob cobertura de gram?¡neas.,"Arenitos podendo conter f??sseis e n??dulos calc?¡ticos. Grupo Bauru, Forma?º?úo Adamantino;  Cret?íceo.",Arenitos com ciment?úo calc?¡tica.,Contato Savana/Floresta Estacional,Pastagem plantada e culturas de feij?úo e algod?úo,"A
+ Bt",0.26992104860,42,-52.76529322900,-21.31276228570
+SF22,SF22VC/E.4,E,-21:26:28,-52:42:58,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,?ílico,n?úo erodida,n?úo pedregos,n?úo rochosa,Savana,plano,plano,plano suave ondulado,n?úo pedregosa,n?úo rochosa,fortemente drenado,n?úo aparente,"Estrada Santa Rita do Pardo - Bataguassu, a 19 Km de Santa Rita do Pardo.munic?¡pio de Brasil?óndia,MS.Lat:21??26'S e Long: 52??43'WGr.",Coletado em local aplainado com declive de 1 % e sob cobertura de Savana.,Arentos.GrupoBauru.Forma?º?úoSantoAnast?ício.Cret?íceo.,Produto de meteoriza?º?úo de arenitos.,Savana,Pastagemnatural,"A
+ Bw",0.28056700540,43,-52.71612831490,-21.44120778910
+SF22,SF22VC/P.3,P,-21:49:16,-52:35:02,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / argilosa sem cascalho,A moderado,,,,,,plano,plano,suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"Estrada Bataguassu-Campo Grande, ?á 19 Km de Bataguassu. Munic?¡pio de Bataguassu, Estado de Mato Grosso de Sul.",Trincheira em local com 0 a 3% de declividade e sob cobertura de cerrado.,"Arenitos de granla?º?úo fina a m??dia, podendo localmente apresnta cimento calc?¡fero. Grupo Bauru, Forma?º?úo Santo Anast?ício.",Arenitos.,Savana Gram?¡neo-lenhosa,Pastagem natural,"A
+ Bw2
+ AB
+ BA
+ Bw1",0.30916478697,44,-52.58382034180,-21.82101529410
+SF22,SF22VC/P.5,P,-21:54:15,-52:36:59,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,plano,plano,plano suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"Estrada Bataguassu-Anauril?óndia, a 33 km de Bataguassu, lado esquerda da estrada. Munic?¡pio de Bataguassu, Estado de Mato Grosso do Sul. Lat. 21??54 Sul e Long 52??37' WGr.",Trincheira aberta em ter?ºo superior de encosta com 2% de declividade e sob cobertura de savana.,Arenitos. Grupo Bauru. Forma?º?úo Caiu?í. Cret?íceo.,Arenitos.,Savana,Pastagem nativa,"A
+ AB
+ BA
+ Bw1
+ Bw2
+ Bw3",0.30198245466,45,-52.61638345770,-21.90416485610
+SF22,SF22VC/P.4,P,-21:52:07,-52:53:14,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,plano,plano,plano suave ondulado,n?úo pedregosa,n?úo rochosa,fortemente drenado,ligeira,"Estrada Bataguassu-Campo Grande, ?á 2,7 km do posto Santa M??nica. Munic?¡pio de Anauril?óndia, Estado de Mato Grosso do Sul. Lat.21??52' Sul e Long. 52??53' WGr.",Trincheira em meia encosta co 3% de declividade e sob cobertura de floresta.,Arenitos. Grupo Bauru. Forma?º?úo Caiu?í. Cret?íceo.,Arenitos.,Floresta Estacional Semidecidual,Reserva Florestal,"A
+ AB
+ BA
+ Bw1
+ Bw2
+ Bw3",0.24290375325,46,-52.88714392860,-21.86853451380
+SF22,SF22VC/P.2,P,-21:47:37,-53:09:58,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,plano,plano,suave ondulado,n?úo pedregosa,n?úo rochosa,fortemente drenado,ligeira,"Estrada Bataguassu-Campo Grande, ?á 11 Km ap??s CasaVerde. Munic?¡pio Nova Andradina, Estado de Mato Grosso do Sul. Lat. 21??47' Sul e Long. 53??10' Wgr.",Trinceira no ter?ºo m??dio de encosta com 2% de declividade e sob cobertura de savana.,"Arenitos, siltitos e conglomerados. Grupo Bauru. Forma?º?úo Caiu?í. Cret?íceo.",Arenitos.,Savana Gram?¡neo-lenhosa,Pastagem natural,"A
+ AB
+ BA
+ Bw1
+ Bw2
+ Bw3",0.18204331907,47,-53.16606119570,-21.79373691320
+SF22,SF22VD/E.10,E,-21:32:15,-51:43:23,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,,,,,,"Estrada Ouro Verde-Rio do Paixe. Munic?¡pio de Ouro Verde, Estado de S?úo Paulo. Lat. 21??32' Sul e Long. 51??43' WGr.",,,,,,"A
+ AB
+ Bw1
+ Bw2",0.49747139819,48,-51.72315459300,-21.53762861370
+SF22,SF22VD/P.3,P,-21:36:27,-52:09:37,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,Hidrom??rfico,neofluviss??lico,arenosa sem cascalho / arenosa sem cascalho,A moderado,,,,,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,imperfeitamente drenado,n?úo aparente,"Estrada Bataguassu-Brasil?óndia, entrada em vicinal ?á dieita para Fazenda Orelha de On?ºa, 10 km. Munic?¡pio de Brasil?óndia, Estado de Mato Groasso do Sul. Lat. 21??36' Sul e Long. 52??09' WGr.",Plan?¡cie co 2% de declividade sob cobertura de gram?¡neas.,"Areias, argilas e cascalhos inconsolidados.",Sedimentos fluviais arenosos.,Forma?º?úo Pioneira,Pastagem natural,"Ap
+ C1
+ C2",0.40189240379,49,-52.16018344070,-21.60746943610
+SF22,SF22VD/P.4,P,-21:45:30,-52:19:43,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,plano suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,ligeira,"Antiga estrada Anauril?óndia-Bataguassu, 3 km antes do trevo da estrada Bataguassu (MS)-Presidente Epit?ício(SP). Munic?¡pio de Bataguassu, Estado de Mato  Grosso do Sul. Lat.21??45' Sul e Long. 52??20' WGR.",Coletado em ter?ºo m??dio de encosta com 3% de declividade e sob cobertura de gram?¡neas.,Arenitos com matriz calc?¡fera. Grupo Bauru. Forma?º?úo Caiu?í. Cret?íceo.,Arenitos com matriz Calc?¡fera.,Floresta,Pastagem,"Ap
+ Bt1
+ Bt2",0.36494134348,50,-52.32864551710,-21.75834886630
+SF22,SF22VD/P.5,P,-21:58:41,-52:26:54,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,n?úo aparente,"Antiga estrada Anauril?óndia-Bataguassu, ?á 3km antes do c??rrego Caraguat?í. Munic?¡pio de Bataguassu, Estado de Mato Grosso do Sul. Lat.21??28' Sul e Long. 52??27' WGr.","Coletado em ter?ºo m??dio de encosta com 2,5 % de declividade e sob cobertura de gram?¡neas.",Arenitos. Grupo Bauru. Forma?º?úo Caiu?í. Cret?íceo.,Arenitos.,Savana,Pastagem,"Ap
+ Bw1
+ Bw2",0.33862430049,51,-52.44829719450,-21.97811516470
+SF22,SF22VD/E.13,E,-21:58:12,-52:11:56,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,,,,,,"Estrada Presidente Epit?íceo-Marab?í Paulista, 2,5 km ap??s o Xavantes. Munic?¡pio de Presidente Epit?ício Estado de Sa?? Pailo. Lat. 21??58' Sul e Long. 52??12' WGr.",,,,,,"Ap
+ Bw1
+ Bw2",0.39303413212,52,-52.19900616980,-21.97005797890
+SF22,SF22VD/E.12,E,-21:57:16,-51:39:10,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,forte ondulado,forte ondulado,,,,,,"Estrada Santo Anast?ício-Ribeir?úo dos ?ìndios, a 2,5 km de Santo Anast?ício. Munic?¡pio de Santo Anast?ício, Estado de Sa?úo Paulo. Lat.21??57' SUl e Long. 51??39' WGr.",,,,,,"Ap
+ E
+ Bt1
+ Bt2
+ Bt3",0.51228909892,53,-51.65275325430,-21.95443402420
+SF22,SF22VD/E.3,E,-21:18:16,-51:53:53,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,?ôrtico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,A moderado,,,,,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,fortemente drenado,n?úo aparente,"Estrada Panorama(SP)-Brasil?óndia(MS), a 4 km do leito original do rio Paran?í. Munic?¡pio de Brasil?óndia, Estado de Mato Grosso do Sul. Lat. 21??18' Sul e Long.51??54' WGr.",Plan?¡cie com 1% de declividade e sob cobertura de gram?¡neas.,"Areias, siltes, argilas e cascalhos. Dep??sitos das plan?¡cies de inunda?º?úo. Quarten?írio. Holoceno.",Sedimentos do Quatern?írio.,Savana Florestada/Floresta,Pastagem,C,0.45957161495,54,-51.89796225660,-21.30439514450
+SF22,SF22VD/E.7,E,-21:21:00,-51:46:24,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,,,,,,"Estrada Panorama Santa Mercedes, a 7,5 km de Panirama. Munic?¡pio de Santa Mercedes, Estado de Sa?úo Paulo. Lat.21??20' Sul e Long. 51??46 WGr.",,,,,,"Ap
+ Bw1
+ Bw2",0.48676691840,55,-51.77332194810,-21.35004817550
+SF22,SF22VD/E.9,E,-21:29:45,-51:38:50,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,,,,,,,,,,,"Ap
+ AB
+ Bt1
+ Bt2",0.51415035462,56,-51.64713385330,-21.49575842410
+SF22,SF22VD/E.11,E,-21:46:01,-51:10:06,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,,,,,"Estrada Adamantino-Presidente Prudente, a 14 km de Adamantino. Munic?¡pio de Adamantino, Estado de Sa?? Paulo. Lat. 21??46' Sul e Long. 51??10' WGR.",,,,,,"A
+ E
+ Bt
+ BC",0.61832631749,57,-51.16833901590,-21.76707991070
+SF22,SF22VD/P.2,P,-21:35:24,-51:11:10,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,LIT?ôLICO,Eutr??fico,t?¡pico,arenosa sem cascalho /,A moderado,,,,,,ondulado,ondulado,forte ondulado,n?úo pedregosa,ligeiramente rochosa,moderadamente drenado,ligeira,"Estrada Pacaembu-Fl??rida Paulista, a 1 Km de Fl??rida Paulista. Munic?¡pio de Florida Paulista, Estado de S?úo Paulo.",Corte de estrada no ter?ºo m??dio de eleva?º?úo com 9% de declividade e sob cobertura de gram?¡neas.,"Arenitos, n??dulos calc?¡ticos. Grupo Bauru. Forma?º?úo Adamantina; Cret?íceo.",Arenitos.,Floresta Estacional Semidecidual,Pastagem de capim coloni?úo,"A
+ R",0.61471534130,58,-51.18622102360,-21.59011508160
+SF22,SF22VD/E.4,E,-21:06:19,-51:38:09,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,,,,,,"Estrada Fazenda Pantaneira-Vila Vargas, a 1,5 km da Fzenda. Munic?¡pio de Castilho, Estado de S?úo Paulo. Lat. 21??06' Sul e Long. 51??38' WGr.",,,,,,"Ap
+ Bt1
+ Bt2",0.51717214177,59,-51.63589188930,-21.10525546870
+SF22,SF22VD/P.1,P,-21:10:17,-51:58:31,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,GLEISSOLO,TIOM?ôRFICO,Ta Eutr??fico,neofluviss??lico,m??dia sem cascalho / arenosa sem cascalho,A moderado,,,,,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,mal drenado,n?úo aparente,"Estrada Brasil?óndia - Tr?¬s Lagoas, ?á 100 m do rio Verde. Munic?¡pio de Brasil?óndia, Estado de Mato Grosso do Sul. Lat. 21??10' Sul e Long. 51??58' Wgr.",Local com 0 a 1% de declividade e sob cobertura de gram?¡neas.,"Areias, argilas e cascalhos inconsolidados; Dep??sitos Aluvionares recentes; Quatern?írio.",Sedimentos areno-argilosos.,Forma?º?úo Pioneira Fluvial,Pastagem Nativa,"A
+ 2A
+ 2Cg
+ 3Cg",0.44282731485,60,-51.97532066830,-21.17151442120
+SF22,SF22VD/E.1,E,-21:12:15,-52:21:46,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,plano,plano,suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"Estrada Santa Rita do Pardo-Brasil?óndia, a 55 Km de Santa Rita do Pardo, e a 2 Km do entrocamento para Arapu?í. Munic?¡pio de Brasil?óndia, Estado do Mato Grosso do Sul. Lat. 21??12' Sul e Long. 52?? 22' Wgr.",Local com 2% de declividade e sob cobertura de Savana.,Arenitos calc?¡ticos de granula?º?úo fina. Grupo Bauru- Forma?º?úo Adamantino. Cret?íceo.,Arenitos.,Savana Arborizada,Pastagem de capim coloni?úo,"A
+ Bt",0.35804128769,61,-52.36276618330,-21.20430446770
+SF22,SF22VD/E.2,E,-21:14:21,-52:16:28,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"Estrada Brasil?óndia-Santa Rita do Pardo, a 21 km de Brasil?óndia. Munic?¡pio de Brasil?óndia, Estada de Mato Grosso do Sul. Lat.21??14' Sul e Long. 52??16' WGr.",Ter?ºo m??dio de encosta com 4% de declividade e sob cobertura de pastagem plantada.,Arenitos. Grupo Bauru. Forma?º?úo Caiu?í. Cret?íceo.,Arenitos.,Floresta Estacional Semidecidual,Pastagem de brachi?íria,"Ap
+ Bw",0.37731380809,62,-52.27448884940,-21.23908441100
+SF22,SF22VD/E.6,E,-21:13:40,-51:30:57,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,GLEISSOLO,H?üPLICO,Ta Eutr??fico,neofluviss??lico,m??dia sem cascalho / muito argilosa sem cascalho,A moderado,,,,,,plano,plano,,,,,,"Estrada Andradina-Presidente Venceslau, na v?írzea do Aguape?¡. Munic?¡pio de Monte Castelho, Estado de S?úo Paulo. Lat.21??13'ul e Long. 51??31' WGr.",,,,,,"A
+ 2E
+ 3Cg1
+ 3Cg2",0.54324933414,63,-51.51586081610,-21.22776612510
+SF22,SF22VD/E.5,E,-21:06:24,-51:02:58,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,,,,,"Estrada Ara?ºatuba-Andradina, 23 km da estrada de Valparaiso, estando ainda, aproximadamente 6 km a nordeste da cidade de Mirand??polis. Munic?¡pio de Mirand??polis, Estado de S?úo Paulo. Lat5.21??06' Sul e Long. 51??03' WGr.",,,,,,"A
+ E
+ Bt1
+ Bt2
+ Bt3
+ C",0.64544496440,64,-51.04956612030,-21.10678439040
+SF22,SF22XA/P.2,P,-20:46:22,-49:47:13,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,ondulado,ondulado,ondulado suave ondulado,n?úo pedregosa,n?úo rochosa,moderadamente drenado,,"Estrada S?óo J??se do Rio Preto - Pereira Barreto, a 18 Km apos Mirassol. Mirassol-SP. Lat. 20??46' S e Long. 49??47' WGr.","Corte de estrada no topo de eleva?º?úo com 5 a 10% de declividade, sob cobertura de mata secund?íria(capoeira).","Arenitos de granula?º?úo fina, podendo conter fosseis, cimentos e n??dulos calc?¡ticos.Forma?º?úo Adamantina. Grupo Bauru. Cret?íceo.",Arenito contendo n??dulos ou cimento calc?¡ticos.,Floresta Estacional Semidecidual,Mata de forma?º?úo secund?íria,"A
+ E
+ Bt1
+ Bt2
+ Bt3
+ C1
+ C2
+ R",0.92261349166,65,-49.78690099580,-20.77283748340
+SF22,SF22XA/E.7,E,-20:07:20,-50:13:07,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,,n?úo pedregosa,n?úo rochosa,,,"Estrada Maced??ni - Indiapor?ú, a 4 km do trevo de Maced??nia. Maced??nia-SP. Lat. 20??07' S e Long. 50??13' WGr.",,,,,,"Ap
+ AB
+ Bt1
+ Bt2",0.82974591358,66,-50.21861346070,-20.12223894430
+SF22,SF22XA/E.2,E,-20:05:08,-50:29:19,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,,n?úo pedregosa,n?úo rochosa,,,"Estrada Jales - Turmalina, a 2 km de F?ítima. Dolcin??polis -SP. Lat. 20??05' S e Long. 50??29' WGr.",,,,,,"A
+ Bt",0.77060765229,67,-50.48852107940,-20.08556208670
+SF22,SF22XA/E.6,E,-20:49:33,-50:43:20,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Sud Vennucci - Santo Antonio do Aracangu?í, logo ap??s o ribeir?úo Cruzes. Ara?ºatuba-SP. Lat.....S e Long. 50??43'WGR.",,,,,,"Ap
+ Bw1
+ Bw2",0.71766427432,68,-50.72222050330,-20.82575842490
+SF22,SF22XA/E.3,E,-20:17:28,-49:43:20,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,,n?úo pedregosa,n?úo rochosa,,,"Estrada Palestina -Am??rico de Campos, a 17 km de Palestina. Palestina-SP.Lat.20??17' S e Long. 49??43' WGr.",,,,,,"Ap
+ Bt",0.93817341347,69,-49.72220064090,-20.29116050160
+SF22,SF22XA/E.4,E,-20:34:26,-49:34:07,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,,n?úo pedregosa,n?úo rochosa,,,"Estrada Ibiporanga - Palestina, a 1km de Ibiporanga.Tanab?¡-SP. Lat. 20?? 34' S e Long. 40??34' WGr.",,,,,,"A
+ Bt",0.97102537669,70,-49.56854419610,-20.57400138000
+SF22,SF22XA/E.5,E,-20:43:56,-49:47:24,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada S?úo jos?? do Rio Preto - Pereira Barreto, a 7,9 Km ap??s entroncamento para monte Apras?¡vel. Monte Apras?¡vel - SP. Lat. 20?? 43' S e Long. 49?? 47' WGr.",,,,,,"Ap
+ Bt1
+ Bt2
+ Bt3
+ C",0.92205793252,71,-49.79002071460,-20.73209484640
+SF22,SF22XA/E.1,E,-20:52:12,-50:18:21,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,plano,plano,,n?úo pedregosa,n?úo rochosa,moderadamente drenado,n?úo aparente,"A 2Km de Nova Lusit?ónia, em dire?º?úo a Vicentin??polis.Nova Lusit?ónia-SP. Lat. 20??52' S e Long. 50??18' WGr.",Local plano com 0 a 1% de declividade e sob cobertura de gram?¡neas.,"Arenitos de granula?º?úo fina.Podendo conter f??sseis, cimentos e n??dulos calc?¡ticos. Forma?º?úo Adamantina. Grupo Bauru. Cret?íceo.",Arenito com cimento ou n??dulos calc?¡ticos.,Floresta Estacional Semidecidual,Reflorestamento de Eucaliptus sp,"A
+ Bt2",0.80873744371,72,-50.30579786720,-20.86988889840
+SF22,SF22XA/P.1,P,-20:11:42,-50:43:06,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,abr??ptico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,suave ondulado,suave ondulado,suave ondulado ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,moderada,A 6Km de Ur?ónia em dire?º?úo a Asp?ísia. Ur?ónia-SP. Lat. 20??28' S e Long. 49??34' WGr.,Ter?ºo superior de eleva?º?úo com 8 a 10% de declividade e sob cobertura de gram?¡nea.,"Arenitodegranula?º?úofina,podendoconterf??sseis,cimentosen??duloscalc?¡ticos.Forma?º?úoAdamantina.GrupoBauru.Cret?íceo.",Arenito com influ?¬ncia calc?¡tica.,Floresta Estacional Semidecidual,PastagemcomBrachi?íriaspecultutasdecaf??emilho,"Ap
+ E
+ Bt1
+ Bt2",0.71993105077,73,-50.71825965690,-20.19513588800
+SF22,SF22XB/E.5,E,-20:57:09,-49:12:11,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,,,,,"Estrada S?úo Jos?? do Rio Preto - Araraquara, a 1Km de Uchoa. Uchoa-SP. Lat. 20?? 57'S e Long. 49?? 12'WGr.",,,,,,"Ap
+ BA
+ Bt1
+ Bt2
+ BC",1.04995395247,74,-49.20292800020,-20.95252160750
+SF22,SF22XB/E.4,E,-20:46:26,-49:23:03,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada S?úo Jos?? do Rio Preto - Nova Granada, a 5,4 km de S?úo Jose do Rio Preto. S?úo Jos?? do Rio Preto-SP.Lat. 20??46' S e Long.49??23' WGr.",,,,,,"A
+ BA
+ Bw1
+ Bw2
+ Bw3
+ BC1
+ BC2",1.01083004918,75,-49.38411124470,-20.77384979140
+SF22,SF22XB/E.7,E,-20:12:09,-48:02:06,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Acrif??rrico,t?¡pico,muito argilosa sem cascalho / muito argilosa sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Miguel??polis a Guaira, a 1 km de Miguel??polis.Miguel??polis-SP. Lat. 20??12' S e Long. 48??02' WGr.",,,,,,"A
+ AB
+ Bw1
+ Bw2",1.30860987668,76,-48.03499030780,-20.20241583930
+SF22,SF22XB/E.6,E,-21:00:00,-49:15:00,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,ondulado,ondulado,,n?úo pedregosa,n?úo rochosa,,,"A 4 km da rodovia Washington Luiz, no sentido da vila Ventura.Ibir?í-SP. Lat.21??00S e Long. 49??15' WGr.",,,,,,"A
+ Bt2",1.03952284705,77,-49.24993808860,-21.00008438130
+SF22,SF22XB/E.2,E,-20:16:06,-48:33:00,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Barreto - Planura, a48 km de Barretos e a 13 km da estrada em dire?º?úo a fazenda Continental.Col??mbia-SP. Lat. 20??16' S e Long. 48??33' WGr.",,,,,,Bw2,1.19536851024,78,-48.55001963400,-20.26836185360
+SF22,SF22XB/P.2,P,-20:37:56,-48:04:28,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Acrif??rrico,??mbrico,muito argilosa sem cascalho / muito argilosa sem cascalho,A proeminente,,,n?úo pedregos,n?úo rochosa,Contato Savana / Floresta Estacional,plano,plano,suave ondulado plano,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"Estrada antiga Morro Agudo-Guai?¡ra, a 12Km de Morro Agudo e a !Km da estrada da fazenda Marilu do Ip?¬. Morro Agido-SP. Lat. 20??37' S e Long. 48??05' WGr.",Ter?ºo inferior de eleva?º?úo com 2 a 3% de declividade e sob cobertura de gram?¡nea.,Derrame bas?ílticos e diab?ísicos como diques e sills.Forma?º?úo Serra Geral. Grupo S?úo Bento.Jur?íssico/Cret?íceo,Basalto,Contato Savana/ Floresta Estacional Semidecidual,"Cultura de milho, soja e cana de a?ºucar","Ap
+ Bw1
+ BA
+ Bw2",1.29822017139,79,-48.07447706010,-20.63225041220
+SF22,SF22XB/P.1,P,-20:34:30,-48:35:09,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,Savana,suave ondulado,suave ondulado,suave ondulado ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,,"Estrada Barretos - Bebedouro, a 2Km de Barretos. Barretos-SP.Lat. 20??34' S e Long. 48??35' WGr.",Corte de estrada no ter?ºo m??dio de eleva?º?úo com 5 a 10% de declividade e sob cobertura de gram?¡nea.,"Arenito de granula?º?úo fina, podendo conter f??sseis, cimentos ou n??dulos calc?¡ticos. Forma?º?úo Adamantina. Grupo Bauru. Cret?íceo.",Arenito sem n??dulos ou cimento calc?¡ticos.,Savana Gramineo-Lenhosa,Pastagem de capim coloni?úo,"Ap
+ BA
+ Bw1
+ Bw2",1.18638445245,80,-48.58582595530,-20.57496722890
+SF22,SF22XC/E.2,E,-21:05:15,-50:21:52,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,,,,,,,,"Estrada Buritama-Birigui, a 3km do rio Tiet?¬. Ara?ºatuba-SP. Lat. 21??05' S e Long. 50?? 22' WGr.",,,,,,"Ap
+ Bt1
+ Bt2",0.79539702767,81,-50.36443604230,-21.08756287040
+SF22,SF22XC/E.1,E,-21:03:33,-50:28:28,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Eutr??fico,chernoss??lico,argilosa sem cascalho / argilosa sem cascalho,A chernoz?¬mico,,,,,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,,,"Estrada aeroporto de Ara?ºatuba-rio Tiete, a 800m do rio . Ara?ºatuba-SP. Lat. 21??03' S e Long. 50??28' WGr.",,,,,,"Ap
+ BA
+ Bw1",0.77136561421,82,-50.47455868970,-21.05909100330
+SF22,SF22XC/E.6,E,-21:29:05,-50:32:15,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,,,,,,"Estrada Bilac - Gabriel Monteiro, a 11km de Bilac. Gabriel Monteiro-SP. Lat. 21??29' S e Long. 50??32' WGr.",,,,,,"Ap
+ AB
+ BA
+ Bt",0.75668243099,83,-50.53746105030,-21.48473389820
+SF22,SF22XC/E.4,E,-21:12:36,-49:51:36,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,,plano,plano,,,,,,"Estrada Salto.......- Ribeir?úo da corredeira, 5 km ap??s ribeir?úo. Jo?úo Bonif?ício- SP. Lat. 21??12' S e Long. 49?? 51' WGr.",,,,,,"Ap
+ Bt1
+ Bt2",0.90547339486,84,-49.85991196770,-21.21009159170
+SF22,SF22XC/E.3,E,-21:11:23,-49:43:17,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,epi?ílico,,n?úo pedregos,n?úo rochosa,,plano,plano,,,,,,"Estrada Ubarana - Adolfo,a 500m do trevo com a BR-153. Jos?? Bonif?ício-SP. Lat. 21??11' S e Long. 49?? 43' WGr.",,,,,,"A
+ Bw",0.93583755952,85,-49.72133853590,-21.18972888840
+SF22,SF22XC/E.7,E,-21:58:36,-49:39:06,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,,ondulado,,n?úo pedregosa,rochosa,,,"Estrada Guarant?ú - Alvaro de Carvalho, a 13 km de Guarant?ú.Guarant?ú-SP. Lat. 21??58' S e Long. 49??39' WGr.",,,,,,"Ap
+ E
+ Bt1
+ Bt2",0.94899710445,86,-49.65177800890,-21.97668414310
+SF22,SF22XC/P.1,P,-21:45:22,-49:52:13,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,suave ondulado,suave ondulado,suave ondulado ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,moderada,"Estrada Lins - Getulina, a 1Km ap??s rio Feio.Getulina - SP. Lat. 21??45' S e Long. 49??52'WGr.",Tergo m??dio de eleva?º?úo com 6 a 7% de declividade e sob cobertura de capim coloni?úo.,"Arenitos de granula?º?úo fina , podendo apresentar f??sseis, cimento ou n??dulos calc?¡ticos. Forma?º?úo Adamantina. Grupo Bauru. Cret?íceo.",Arenitos com n??dulos calc?¡feros.,Floresta Estacional Semidecidual,"Pastagem com Brachi?íria sp, coloni?úo ,citrus e caf??","Ap
+ E
+ Bt1
+ Bt2",0.90185330367,87,-49.87022954730,-21.75614615230
+SF22,SF22XD/E.1,E,-21:12:00,-49:11:33,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Urup?¬s-Elisi?írio, a 12km de Elisi?írio.Mirand??polis-SP. Lat. 24??11' S e Long. 49??11' WGr.",,,,,,"AB
+ Bt2",1.05150316832,88,-49.19238432040,-21.20001738730
+SF22,SF22XD/E.2,E,-21:27:37,-48:59:57,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Itajobi , a 6km de Itajobi. Itajobi-SP. Lat. 21??27'S e Long. 49?? 00""WGr.",,,,,,"Ap
+ E
+ BE
+ Bt1
+ Bt2",1.09295446229,89,-48.99926913480,-21.46039282610
+SF22,SF22XD/E.4,E,-21:35:11,-48:45:05,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada S?úo Loren?ºo do Turvo - It?ípolis, a 6 km ap??s o rio S?úo Loren?ºo. It?ípolis-SP. Lat. 21?? 35' S e Long. 48?? 45' WGr.",,,,,,"A
+ AB
+ BA
+ Bw1
+ Bw2",1.14672754675,90,-48.75145048920,-21.58628805660
+SF22,SF22XD/E.3,E,-21:26:00,-48:19:50,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,A 2 km do entroncamento para Santa Enertina em dire?º?úo a Jaboticabal pela BR 364. Guar?¡ba-SP. Lat. 21??25' S e Long. 48??20' WGr.,,,,,,Bw,1.23918255170,91,-48.33068016920,-21.43330239890
+SF22,SF22XD/E.5,E,-21:43:14,-48:05:12,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Am??rico Brasili?¬nse - Santa L??cia , a 3 km de Am??rico Brasili?¬nse.Am??rico Brasili?¬nse-SP. Lat. 21?? 43' S e Long. 48?? 05' WGr.",,,,,,Bw,1.29148608437,92,-48.08676572290,-21.72059793930
+SF22,SF22XD/E.6,E,-21:47:40,-48:16:05,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Gavi?úo Peixoto - Araraquara , a 20 km de Gavi?úo Peixoto. Araraquara-SP. Lat. 21??47"" S e Long. 48?? 16' WGr.",,,,,,Bw,1.25166060964,93,-48.26795725820,-21.79457460000
+SF22,SF22XD/E.7,E,-21:59:19,-48:17:55,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,?ôrtico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,,,"Estrada Araraquara - ja??, a 7 km do entroncamento em dire?º?úo a Guarapuranga. Boa Esperan?ºa do Sul-SP. Lat. 21??59' S e Long. 48?? 18' WGr.",,,,,,Bw,1.24433975063,94,-48.29855653120,-21.98855409080
+SF22,SF22XD/P.1,P,-21:55:35,-48:02:14,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,Savana,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Ibat?? - Araraquara, a 5,6 Km de de Ibat??.Ibat??-SP.Lat. 21??55' S e Long. 48??02' WGr.","Corte de estrada, no ter?ºo m??dio de eleva?º?úo com 2 a 5% de declividade e sob cobertura de gramm?¡nea.","Arenitos de granula?º?úo fina, podendo conter f??sseis, cimentos ou n??dulos calc?¡ticos.Forma?º?úo Adamantina. Grupo Bauru.Cret?íceo.",Arenitos sem influ?¬ncia calc?¡tica.,Savana Gram?¡neo-Lenhosa,Pastagem,"Ap
+ AB
+ Bw1
+ Bw2
+ Bw3",1.30161998834,95,-48.03711842180,-21.92644627740
+SF22,SF22YA/E.1,E,-22:34:29,-53:26:20,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,suave ondulado,plano,suave ondulado plano,n?úo pedregosa,n?úo rochosa,bem drenado,ligeira,"?Ç 4,8 km da vila S?úo Jo?úo em dire?º?úo ?á conflu?¬ncia dos rios Ivinhema e Ba?¡a. Munic?¡pio de Batapor?ú, Estado do Mato grosso do Sul. Lat. 22??34' Sul e Long. 53??26'",Ter?ºo m??dio de encosta com 4% de declividade e sob cobertura de gram?¡nea.,"Areias, argilas e cascalhos inconsolidados. Dep??sitos Aluvionares recentes. Quatern?írio.",Sedimentos de natureza coluvionar e aluvionar.,Forma?º?úo Pioneira Fluvial,Pastagem de Brachi?íria,"Ap
+ BA
+ Bt",0.12222438611,96,-53.43891337270,-22.57482578630
+SF22,SF22YA/P.1,P,-22:31:10,-53:04:14,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,GLEISSOLO,H?üPLICO,Tb Eutr??fico,,argilosa sem cascalho / muito argilosa sem cascalho,A proeminente,,,,,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,imperfeitamente drenado,n?úo aparente,"Estrada Porto Primavera-Fazenda Primavera, a 4,6 Km do porto. Bataipor?ú, Estado do Mato Grosso do Sul. Lat. 22??31' Sul e Long. 53??04' WGr.",Trincheira em local com 1% de declividade na v?írzea do rio Paran?í e sob cobertura de gram?¡neas.,"Dep??sitos de areias,argilas e cascalhos inconsolidados. Dep??siotos Aluvionares recentes. Quatern?írio.",Sedimentos argilo-arenosos.,Savana Gram?¡neo-Lenhosa ( Campo de V?ízea),Pastagem natural,"A
+ Cg1
+ Cg2
+ Cg3
+ 2Cg4
+ 3Cg5",0.20252107838,97,-53.07057613280,-22.51957155870
+SF22,SF22YA/P.2,P,-22:31:20,-53:01:08,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,FL?ÜVICO,Tb Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,bem drenado,n?úo aparente,"Estrada Porto Primavera - Fazenda Primavera ?á 0,7 Km do rio Paran?í. Munic?¡pio de Batipor?ú, Estado do Mato Grosso do Sul. Lat. 22??31' Sul e Long. 53??01' WGr.",Ter?ºo de encosta com 2% de declividade e sob cobertura de gram?¡neas.,"Dep??sitos de areias, argilas e cascalhos inconsolidados. Dep??sitos aluvionares recentes. Quatern?írio.",Sedimentos areno-argilosos.,Floresta Estacional Semidecidual,Pastagem,"Ap
+ C1
+ C2",0.21375584446,98,-53.01900775040,-22.52210238990
+SF22,SF22YA/P.3,P,-22:40:44,-52:54:19,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Eutr??fico,argiss??lico,m??dia sem cascalho / argilosa sem cascalho,A moderado,,,,,,plano,plano,plano plano,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"?Ç 6 km de Ita??na do Sul em dire?º?úo a Diamante do Norte. Munic?¡pio de Ita??na do Sul, Estado do Paran?í. Lat. 22??40' Sul e Long. 52??54' WGr.",Trincheira em ?írea com 3% de declividade e sob cobertura de cafezal.,"Arenitos, siltitos e conglomerados. Grupo Bauru, Forma?º?úo Caiu?í. Cret?íceo.",Arenito com influ?¬ncia de Basalto.,Floresta Estacional Semidecidual,"Caf??, Cana-de-a?º??car, milho, feij?úo mandioca e pastagem plantada","Ap
+ BA
+ Bw1
+ Bw2
+ Bw3",0.23846843513,99,-52.90517413490,-22.67882558250
+SF22,SF22ZA/E.2,E,-22:53:18,-50:15:07,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distrof??rrico,t?¡pico,muito argilosa sem cascalho / muito argilosa sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Palmital - Andir?í, a 12 Km do trevo de Palmital.Palmital,SP.Lat:22??53'S e Long:50??15'WGr.Folha SF.22-ZA.",,,,,,Bw,0.81616618297,100,-50.25195868790,-22.88846992030
+SF22,SF22ZA/P.2,P,-22:38:21,-50:41:22,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutr??fico,t?¡pico,muito argilosa sem cascalho / muito argilosa sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Maraca?¡  -- Presidente Prudente, a 1 km de Maraca?¡.Maraca?¡,SP. Lat:22??38'S e Long:50??41'WGr.SF.22-ZA.",,,,,,"Ap
+ BA
+ Bt1
+ Bt2
+ BC",0.72133858115,101,-50.68932152480,-22.63908770570
+SF22,SF22YB/P.1,P,-22:52:05,-51:14:06,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distrof??rrico,t?¡pico,muito argilosa sem cascalho / muito argilosa sem cascalho,A moderado,?ílico,,,,,plano,plano,suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"?Ç 11 km de Bela Vista do Para?¡so, na estrada Bela Vista do Para?¡so - Alvorada do Sul, entra-se 0,2 km a direita. Munic?¡pio de Alvorada do Sul, Estado do Paran?í. Lat. 22??52' Sul e Long. 51??14' Wgr.",Trincheira em topo de eleva?º?úo com 3% de declividade e sob cobertura de Lavoura de Caf??.,Basalto e diab?ísico. Grupo S?úo Bento- Forma?º?úo Serra Geral. Jur?íssico/Cret?íceo.,Basalto.,Floresta Estacional Semidecidual,Cultura de Caf??,"Ap
+ BA
+ Bw1
+ Bw2
+ Bw3",0.60207301888,102,-51.23513559200,-22.86803009860
+SF22,SF22YB/E.7,E,-22:35:59,-51:51:00,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,suave ondulado,,,acentuadamente drenado,n?úo aparente,"A1 km  da estrada Sandovalina-Santa In?¬s, em vicinal ?á esquerda para Itoror?? do Paranapanema. Munic?¡pio de Sandovalina, Estado de S?úo Paulo. Lat.22??36' Sul e Long.51??50' WGr.",Corte de Estrada no ter?ºo m??dio de encosta com 4% de declividade e sob cobertura vegetal de gram?¡neas (brachi?íria).,Arenito Bauru e Basalto Serra Geral.,Arenitos.,,Pastagem.,"Ap
+ Bw",0.46846263001,103,-51.85003656610,-22.59975803470
+SF22,SF22YB/E.10,E,-22:52:27,-51:13:08,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,LIT?ôLICO,Chernoss??lico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A chernoz?¬mico,,,pedregosa I,,,ondulado,ondulado,,,,,,"?Ç 11 km de Bela Vista do Para?¡so para Alvorada do Sul, entrada ?á direita mais 4,1 km. Munic?¡pio de Bela Vista do Para?¡so, Estadodo Paran?í. Lat.22??52' Sul e Long. 51??13' WGr.",,,,,,Ap,0.60558461403,104,-51.21897477600,-22.87428471330
+SF22,SF22YB/E.11,E,-22:53:08,-51:13:18,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutrof??rrico,t?¡pico,argilosa sem cascalho / muito argilosa sem cascalho,A moderado,,,,,,ondulado,ondulado,,,,,,"A 11 km de Bela Vista do Para?¡so para Alvorada do Sul, entrar ?á direita, mais 3,3 km. Munic?¡pio de Bela Vista do Para?¡so, Estado do Paran?í. Lat. 22??53' Sul e Long. 51??13' WGr.",,,,,,"Ap
+ Bt1
+ Bt2
+ Bt3
+ BC",0.60501094784,105,-51.22154298020,-22.88558389560
+SF22,SF22YB/E.4,E,-22:24:48,-51:31:53,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Eutr??fico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A moderado,,,,,,plano,plano,plano suave ondulado,,,acentuadamente drenado,n?úo aparente,"Estrada Narandiba-Guaruj?í, a 300 m de Narandiba. Munic?¡pio de Narandiba, Estado de s?úo Paulo. Lat. 22??25' Sul e Long. 51??32' WGr.",Barranco de estrada no ter?ºo superior de encosta com 3% de declividade e sob cobertura de Gram?¡neas ( batatais).,Arenitos.,Arenitos.,,Pastagem.,"Ap
+ Bw",0.53816443434,106,-51.53134504630,-22.41320420630
+SF22,SF22YB/E.8,E,-22:35:52,-51:45:17,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,t?¡pico,m??dia sem cascalho / argilosa sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,,,,,"V?írzea do ribeir?úo do Rebojo. Munic?¡pio de Estrela do Norte, Estado de S?úo Paulo. Lat. 22??36' Sul e Long.51??45' WGr.",,,,,Pastgem.,"A
+ AB
+ Bt1
+ Bt2",0.48922601212,107,-51.75477022040,-22.59790962460
+SF22,SF22YB/E.9,E,-22:42:22,-51:33:37,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutr??fico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A moderado,,,,,,plano,plano,,,,,,"Munic?¡pio de Centen?írio do Sul, Estado do Paran?í. Lat.22??42' Sul e Long. 51??33'WGr.",,,,,,"Ap
+ Bt1
+ Bt2",0.53143335654,108,-51.56040311950,-22.70611308200
+SF22,SF22YB/E.2,E,-22:22:35,-51:35:51,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,suave ondulado,,,bem drenado,n?úo aparente,"Estrada Pirapozinho-Estrela do Norte, 2km ap??s entroncamento de Narandiba. Munic?¡pio de Tarabai, Estado de S?úo Paulo. Lat. 22??22' Sul e Long. 51??36' WGr.",Barranco de estrada no ter?ºo superior de encosta com 4% de declividade e sob cobertura de gram?¡nias (batatais),Arenito Bauru.,Produto de meteoriza?º?úo de arenitos.,,Pastagem.,"Ap
+ Bt",0.52377883397,109,-51.59747861130,-22.37634272450
+SF22,SF22YB/E.1,E,-22:11:46,-52:04:14,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,ondulado,ondulado,,,,,,"A 12 km da estrada Presidente Venceslau-Teodoro Sampaio , entrada secund?íria para Planalto do Sul. Munic?¡pio de Marab?í Paulista,Estado de S?úo Paulo. Lat. 22??12' Sul e Long. 52??04' WGr.",,,,,,"Ap
+ AB
+ BA
+ Bt",0.42079799542,110,-52.07064008190,-22.19624103700
+SF22,SF22YB/E.3,E,-22:25:36,-52:27:40,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A moderado,,,,,,plano,plano,plano,,,,n?úo aparente,"A 24 km de Teodoro Sampaio em dire?º?úo aRosana, incluindo pequeno trecho final, em estrada vicinal. Munic?¡pio de Teodoro Sampaio, Estado de Sa?? Paulo. Lat. 22??25' Sul e Long. 52??27' WGr.",Barranco de estrada em relevo plano sob cobertura vegetal de gram?¡neas ( coloni?úo ).,,,,pastagem.,"Ap
+ Bw",0.33545308594,111,-52.46102096240,-22.42665657400
+SF22,SF22YB/E.5,E,-22:32:55,-52:01:32,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutr??fico,t?¡pico,argilosa sem cascalho / muito argilosa sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,,,,,,"Porto Cear?í. Munic?¡pio de Jardim Olinda, Estado do Paran?í. Lat. 22??33' Sul e Long. 52??02' WGr.",,,,,,"Ap
+ AB
+ Bt1
+ Bt2",0.43028153392,112,-52.02543992300,-22.54858187650
+SF22,SF22YB/E.12,E,-22:57:48,-52:22:21,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,?ôrtico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,A moderado,,,,,,plano,plano,,,,,,"Estrada Sumar??-S?úo Jo?úo do Caiu?í, ?á 13 km de Sumar??. Munic?¡pio de Alto Paran?í, Estado do Paran?í. Lat. 22??58' Sul e Long. 52??22 WGr.",,,,,,"A
+ C1
+ C2
+ C3
+ C4",0.35430652820,113,-52.37247291170,-22.96327499230
+SF22,SF22YB/E.6,E,-22:34:16,-52:09:41,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,FL?ÜVICO,,,argilosa sem cascalho / argilosa sem cascalho,A moderado,,,,,,plano,plano,,,,,,"Margem direita do rio Paranapanema. Munic?¡pio de Teodoro Sampaio, Estado de S?úo Paulo. Lat. 22??34' Sul e Long. 52??09' WGr.",,,,,,"Ap
+ C1
+ C2
+ 2C3",0.40062746502,114,-52.16142621260,-22.57123952970
+SF22,SF22YC/P.1,P,-23:09:23,-53:44:07,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,GLEISSOLO,MEL?éNICO,Distr??fico,organoss??lico,org?ónica sem cascalho / m??dia sem cascalho,H?¡stico,,,,,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,muito mal drenado,n?úo aparente,"Estrada Navira?¡-Porto Caiu?í, na v?írzea dos rios Paran?í e Laranja?¡, Munic?¡pio de Navira?¡, Estado do Mato Grosso do Sul.. Lat. 23??09' e Long. 53??44' WGr.",Trincheira situada em v?ízea com 0 a 1% de declividade e sob cobertura de gram?¡neas.,Dep??sitos Aluvionares Recentes. Quartern?írio.,Acumula?º?úo de material org?ónico sobre sedimentos.,Savana gram?¡neo-lenhosa( Campo de v?írzea),?ürea de preserva?º?úo,"H1
+ H2
+ H3
+ 2A
+ 3Cg",0.05757029865,115,-53.73519650690,-23.15636517390
+SF22,SF22YC/P.2,P,-23:10:28,-53:45:44,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,Hidrom??rfico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,A proeminente,?ílico,,,,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,mal drenado,ligeira,"Estrada Navira?¡-Porto Caiu?í, ?á 15 km de Porto Caiu?í. Munic?¡pio de Navira?¡, Estado do Mato Grosso do Sul.Lat. 23??10' Sul e Long. 53??46' WGr.","Trincheira na v?írzea do rio Paran?í, com 1 % de declividade e sob cobertura de gram?¡neas.","Areias, argilas e cascalhos inconsolidados. Dep??sitos Aluvionares Recentes. Quatern?írio.",Sedimentos arenosos.,Savana gram?¡neo-lenhosa ( campo de v?írzea),Pastagem nativa,"A
+ C1
+ C2
+ C3",0.05166103409,116,-53.76229701140,-23.17438087650
+SF22,SF22YC/P.4,P,-23:10:50,-52:32:33,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,ar?¬nico,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,ondulado,ondulado,suave ondulado ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"`A 4 km de Nova Alian?ºa do Iva?¡, em dire?º?úo a Paranava?¡. Munic?¡pio de Nova Alian?ºa do Iva?¡, Estado do Paran?í. Lat.23??10' Sul e Long. 52??31' WGr.","Trinceira em ter?ºo m??dio de eleva?º?úo com 10% de declividade e sem cobertura vegetal, na ocasi?úo.","Arenitos, siltitos e conglomerados. Grupo Bauru-Forma?º?úo Caiu?í. Cretaceo.",Arenitos e siltitos.,Floresta Estacional Semidecidual,Cultura de Caf?? e Coloni?úo,"A
+ BA
+ Bt1
+ Bt2",0.31714241408,117,-52.54244720150,-23.18044745170
+SF22,SF22YC/P.3,P,-23:10:10,-52:30:06,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,,arenosa sem cascalho / m??dia sem cascalho,A moderado,,,,,,ondulado,ondulado,suave ondulado ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,moderada,"?Ç 10 km de Paranava?¡ na estrada para Tamboara entrar 5,5 km ?á direita. Munic?¡pio de Paranava?¡, Estado do Paran?í. Lat. 23??10' Sul eLong. 52??30' WGr.",Trincheira aberta na meia encosta de uma eleva?º?úo com 9% de declividade.,"Arenitos, siltitos e conglomerados. Grupo S?úo Bento, Forma?º?úo Caiu?í. Cret?íceo.",Arenitos.,Floresta Estacional Semidecidual,Culturas de caf?? e milho,"Ap
+ E
+ AE
+ Bt1
+ Bt2
+ Bt3",0.32604741530,118,-52.50156387130,-23.16948945160
+SF22,SF22YD/P.1,P,-23:09:11,-52:29:05,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,?ílico,,,,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"?Ç 12 km Paranava?¡, na estrada para Tamboara, entrar 2 km a direita. Munic?¡pio de Tamboara, Estado do Paran?í.",Ter?ºo m??dio de eleva?º?úo com 7% de declividade e sob cobertura de cafezal.,"Arenitos , siltitos e conglomerados. Grupo Bauru-Forma?º?úo Caiu?í. Cret?íceo.",Arenitos.,Floresta Estacional Semidecidual,"Milho, soja e caf??","Ap
+ AB
+ Bt1
+ Bt2",0.32971183827,119,-52.48476132420,-23.15305517440
+SF22,SF22YD/P.3,P,-23:32:42,-52:02:46,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutrof??rrico,t?¡pico,muito argilosa sem cascalho / muito argilosa sem cascalho,A moderado,,,,,,suave ondulado,suave ondulado,suave ondulado ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,n?úo aparente,"Estrada antiga Floriano-Floresta, a 1 km de Floriano, Munic?¡pio de Maring?í, Estado do Paran?í. Lat. 23??32' Sul e Long. 52?803' WGr.",Trincheira no ter?ºo superioir de elva?º?úo com 6% de declividade e sob cobertura de Floresta.,Basalto e diab?ísico. Grupo S?úo Bento. Forma?º?úo Serra Geral. Jur?íssico/Cret?íceo.,Basalto.,Floresta Estacional Semidecidual,"Floresta no local e culturas de caf??, milho, soja e arroz na regi?úo","A
+ BA
+ Bt1
+ Bt2
+ Bt3
+ BC",0.42482663466,120,-52.04609634630,-23.54502958880
+SF22,SF22YD/P.2,P,-23:23:17,-51:04:23,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Eutrof??rrico,chernoss??lico,muito argilosa sem cascalho / muito argilosa sem cascalho,A chernoz?¬mico,,,,,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"Campo experimental de trigo na Sede do IAPAR. Londrina, Paran?í. Lat. 23??23' Sul e Long.51??04' WGr.",Trincheira em local com 5% de declividade e sob cobertura de trigo.,Basalto e Diab?ísio. Grupo S?úo Bento - Forma?º?úo Serra Geral. Jur?íssico/Cret?íceo.,Basalto.,Floresta Estacional Semidecidual,"Trigo, soja, milho, caf??, banana e feij?úo","Ap
+ AB
+ BA
+ Bw1
+ Bw2
+ Bw3
+ B/C
+ C",0.63661873859,121,-51.07312050250,-23.38796664740
+SF22,SF22YD/P.4,P,-23:31:35,-51:05:00,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutrof??rrico,t?¡pico,argilosa sem cascalho / muito argilosa sem cascalho,A moderado,,,,,,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,moderada,"Estrada Londrina - Ponta Grossa, a 34 km de Londrina. Munic?¡pio de Londrina, Estado do Paran?í. Lat.23??32' Sul e Long. 51??05' WGr.",Trnicheira em ter?ºo m??dio de eleva?º?úo com 15% de declividade e sob cobertura de capim coloni?úo.,Basalto e diab?ísico. Grupo S?úo Bento. Forma?º?úo Serra Geral. Jur?íssico/Cret?íceo.,Basalto.,Floresta Estacional Sedmidecidual,"Pastgem plantada, feij?úo e milho","Ap
+ Bt1
+ C
+ Bt2
+ Bt3
+ BC",0.63418023038,122,-51.08346634240,-23.52631025820
+SF22,SF22ZA/P.1,P,-22:18:23,-50:02:09,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,abr??ptico,arenosa sem cascalho / m??dia sem cascalho,A moderado,n?úo ?íli,n?úo erodida,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,suave ondulado,suave ondulado,ondulado,n?úo pedregosa,n?úo rochosa,moderadamente drenado,ligeira,"Estrada Mar?¡lia  a Exapor?ú, a 9 Km de Mar?¡lia.Munic?¡pio de Mar?¡lia,SP.Lat:22?? 18'S e Long:50?? 02'WGr.Folha : SF.22-ZA.",Corte de estrada no ter?ºo m??dio de eleva?º?úo com 7 % de declive.,"Arenitos de granula?º?úo fina,podendo conter f??sseis,cimentos  e n??dulos calc?¡feros.Forma?º?úo Adamantina.Grupo Bauru.Per?¡odo Cret?íceo.",Arenito com n??dulos ou cimento calc?¡fero.,Floresta Estacional Semidecidual,Cultura de caf??,"Ap
+ E
+ Bt1
+ Bt2
+ BC",0.86441286177,123,-50.03596294210,-22.30650935290
+SF22,SF22ZA/E.1,E,-22:39:07,-49:49:18,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada S?úo Pedro do Turvo - Conc??rdia,a 15 Km de S?ú0 Pedro do Turvo,SP. Lat:22??39'S e Long:49??49'WGr.Folha SF.22-ZA.",,,,,,"Ap
+ Bw2",0.91040145781,124,-49.82158936770,-22.65199869550
+SF22,SF22ZC/P.3,P,-23:18:06,-50:05:54,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Eutr??fico,abr??ptico,m??dia sem cascalho / argilosa sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Santo Ant??nio da Platina  - Ribeir?úo do Pinhal, a 0,4 Km de Santo Ant??nio da Platina ,entrar 1,2 Km ?á esquerda.Santo Ant??nio da Paltina,PR.Lat: 23??18'S e Long:50??06WGr.Folha SF.22-ZC.",,,,,,"A
+ BA
+ Bt1
+ Bt2
+ Bt3
+ C",0.84880002810,125,-50.09844227570,-23.30163211740
+SF22,SF22ZD/E.1,E,-23:32:20,-48:02:41,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,argilosa sem cascalho / muito argilosa sem cascalho,,?ílico,,n?úo pedregos,n?úo rochosa,Savana,suave ondulado,suave ondulado,suave ondulado plano,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"Estrada antiga Itapetininga a Tatu?¡, a 5,8  Km de Itapetininga. Itapetininga ,SP. LAT:23??32'S e LONG: 48??03'WGr.Folha SF.22-ZD.",Barranco de estrada no ter?ºo m??dio de eleva?º?úo com 4 % de declive.,"Siltitos,folhelhoseargilitos.Forma?º?úoCorumbata?¡.SubgrupoEstradaNova.GrupoPassaDois.Per?¡odo--Permianosuperior.",Produto da meteoriza?º?úo das rochas locais.,Savana Gram?¡neo-Lenhosa,Cultura de feij?úo,Bw,1.29501462030,126,-48.04475077790,-23.53891436700
+SF22,SF22ZD/P.1,P,-23:10:22,-48:31:18,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,?ôrtico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,,n?úo ?íli,,n?úo pedregos,n?úo rochosa,Savana,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,ligeira,"Estrada Itatinga a Angatuba, a 16 Km de Itatinga. Itatinga,SP.LAT:23??10'S e LONG:48??31'WGr.Folha:SF-22-ZD.",Trincheira em topo de eleva?º?úo com 2 a 4 % de declive.,Arenitosfinosam??dios.Forma?º?úoPiramb??ia.GrupoS?úoBento.Per?¡odo--Tri?íssico.,Arenito.,Savana Gram?¡neo-Lenhosa,Pastagemdecapimgordura,"A
+ AC
+ C",1.19223761799,127,-48.52161787290,-23.17288366750
+SF22,SF22ZB/P.1,P,-22:26:38,-48:33:48,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutrof??rrico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A moderado,n?úo ?íli,n?úo erodida,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,ligeira,"Estrada Barra Bonita a Ja??, a 5 KM de Barra Bonita.Barra Bonita,SP. Lat:22??26'S e Long:48??34'WGr.Folha SF.22-ZB.",Corte de estrada no topo de eleva?º?úo com 8 % de declive.,Derramesbas?ílticosediab?ísioscomdiquesesills.Forma?º?úoSerraGeral.GrupoS?úoBento.Per?¡odo:Jur?íssico/Cret?íceo.,Basalto.,Floresta Estacional Semidecidual,Cafezal,"Ap
+ BA
+ Bt1
+ Bt2
+ BC
+ C",1.18519212135,128,-48.56327106700,-22.44394300620
+SF22,SF22ZB/P.2,P,-22:52:23,-48:54:06,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,n?úo erodida,n?úo pedregos,n?úo rochosa,Savana,suave ondulado,suave ondulado,suave ondulado plano,n?úo pedregosa,n?úo rochosa,fortemente drenado,n?úo aparente,"Rodovia Castelo Branco, 10,6 Km ap??s o entrocamento para Avar??,entrar 7 Km ?á direita em estrada vicinal no rumo norte.Avar??,SP. Lat:22??52'S e Long:48??54'WGr.Folha SF.22-ZB.",Terco m??dio de eleva?º?úo com 4 % de declive.,"Arenitosfinos,m??dioseconglomeradoscomcimentoargiloso.CoberturasIndiferenciadas.Per?¡odoTerci?írio.",Arenito.,Savana Gram?¡nea Lenhosa,PastagemnaturalereflorestamentodeEucaliptussp,"Ap
+ AB
+ BA
+ Bw1
+ Bw2",1.11027391928,129,-48.90163522640,-22.87313675140
+SF22,SF22ZB/P.3,P,-22:59:41,-48:33:34,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,n?úo ?íli,n?úo erodida,n?úo pedregos,n?úo rochosa,Savana,plano,plano,suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,n?úo aparente,"Estrada Botucatu a Itatinga, a 13 Km de Botucatu.Botucatu,SP. Lat:22??59'S e Long:48??33'WGr.Folha:SF.22-ZB.",Trincheira no topo de eleva?º?úo com 2 % de declive.,"Arenitosfinos,m??dioseconglomeradoscomcimentoargiloso.CoberturasIndiferenciadas.Periodo-:Terci?írio.",Arenito.,Savana Gram?¡neo - Lenhosa,Pastagemnatural,"A
+ AB
+ BA
+ Bw",1.18446776362,130,-48.55951872310,-22.99476725200
+SF22,SF22ZB/P.5,P,-22:19:28,-48:57:54,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Pederneiras -- Bauru, a 18 Km de Pederneiras.Pederneiras,SP. Lat:22??19'S e Long:48??58'WGr.Folha:SF:22--ZB.",,,,,,"Ap
+ BA
+ Bw1
+ Bw2",1.09791171593,131,-48.96512567340,-22.32432065090
+SF22,SF22ZB/P.17,P,-22:27:39,-48:52:05,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,plano,plano,plano,n?úo pedregosa,rochosa,bem drenado,,"munic?¡pio de Agudos,SP. Lat:22??27'S e Long:48??52'WGr.Folha SF.22-ZB.",,,,,,"A
+ BA
+ Bw1
+ Bw2
+ Bw3
+ Bw4
+ Bw5
+ Bw6",1.11868894689,132,-48.86809722170,-22.46095663380
+SF22,SF22ZB/P.14,P,-22:16:18,-48:31:25,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Eutrof??rrico,t?¡pico,argilosa sem cascalho / muito argilosa sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Munic?¡pio de Ja??,SP. Lat:22??16'S e Long: 48??31'WGr.Folha SF.22-ZB.",,,,,,"A
+ AB
+ BA
+ Bw1
+ Bw2
+ Bw3
+ Bw4
+ Bw5
+ Bw6",1.19432866119,133,-48.52372747240,-22.27163175590
+SF22,SF22ZB/P.12,P,-22:07:13,-48:42:06,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / argilosa sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,bem drenado,,"Munic?¡pio de Bariri,SP. Lat:22??07'S e Long:48??42' WGr.Folha SF.22-ZB.",,,,,,"A
+ BA
+ Bw1
+ Bw2
+ Bw3
+ Bw4
+ Bw5
+ Bw6",1.15598021992,134,-48.70160645810,-22.12040212710
+SF22,SF22ZB/P.13,P,-22:13:25,-48:32:27,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,bem drenado,,"Munic?¡pio de Borac??ia,SP. Lat:22??13'S e LONG:48??32'WGR.",,,,,,"A
+ AB
+ BA
+ Bw1
+ Bw2
+ Bw3
+ Bw4
+ Bw5",1.19075950375,135,-48.54075429240,-22.22348259790
+SF22,SF22ZB/P.6,P,-22:14:57,-48:42:55,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutrof??rrico,latoss??lico,argilosa sem cascalho / argilosa sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Itapu?¡ -- Pederneiras, a  1 Km de Itapu?¡.Itapu?¡,SP. Lat:22??15'S e Long:48??43'WGr..Folha SF.22-ZB.",,,,,,"Ap
+ Bt1
+ Bt2
+ Bw",1.15259715407,136,-48.71535474200,-22.24918458280
+SF22,SF22ZB/P.10,P,-22:04:14,-48:27:16,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,arenosa sem cascalho / m??dia sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,bem drenado,,Municip?¡o de Boa Esperan?ºa do Sul. Lat:22??04'S e Long:48??27'Wgr.Folha SF.22-ZB.,,,,,,"A
+ AB
+ Bw3
+ BA
+ Bw1
+ Bw2
+ Bw4
+ Bw5
+ Bw6",1.21003534170,137,-48.45458032800,-22.07062122430
+SF22,SF22ZB/P.4,P,-22:03:17,-48:42:58,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Eutr??fico,,arenosa sem cascalho / m??dia sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,,"Estrada  Arealva -- Pederneiras, a 4 Km de Arealva. Arealva,SP.Lat:22??03'S e Long:48??43'WGr.Folha:SF.22-ZB.",,,,,,"A
+ E
+ Bt1
+ Bt2
+ Bt3
+ BC",1.15299035756,138,-48.71616798820,-22.05481018010
+SF22,SF22ZB/P.11,P,-22:01:22,-48:15:09,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,bem drenado,,"Munic?¡pio de Ribeir?úo Bonitro,SP. Lat: 22??01'S e Long:48??15'WGr.Folha SF.22-ZB.",,,,,,"Ap
+ BA
+ Bw1
+ Bw2
+ Bw3
+ Bw4
+ Bw5
+ Bw6",1.25429086822,139,-48.25242709790,-22.02284578850
+SF22,SF22ZB/P.15,P,-22:08:30,-48:17:57,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,LIT?ôLICO,Chernoss??lico,t?¡pico,argilosa sem cascalho /,A chernoz?¬mico,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,forte ondulado,forte ondulado,forte ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Munic?¡pio de Dourado,SP. Lat:22??09'S e Long:48??18'WGr.Folha SF.22-ZB.",,,,,,A,1.24370607837,140,-48.29923697730,-22.14169598160
+SF22,SF22ZB/P.16,P,-22:11:16,-48:14:41,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,plano,plano,plano,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,,"Munic?¡pio de Ribeir?úo Bonito,SP.Lat: 22??11'S e Long:48??14'WGr.Folha SF.22-ZB.",,,,,,"A
+ AB
+ BA
+ Bw1
+ Bw2
+ Bw3
+ Bw4
+ Bw5
+ Bw6",1.25546483822,141,-48.24465027340,-22.18779481700
+SF22,SF22ZB/P.19,P,-22:27:11,-48:10:50,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / m??dia sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,acentuadamente drenado,,"Mnic?¡pio de Torrinha,SP.Lat:22??27'S e Long:48??11'WGr.Folha SF.22-ZB.",,,,,,"A
+ AB
+ BA
+ Bw1
+ Bw2
+ Bw3
+ Bw4
+ Bw5
+ Bw6",1.26857468832,142,-48.18066515780,-22.45294253250
+SF22,SF22ZB/P.18,P,-22:25:27,-48:10:18,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Munic?¡pio de Torrinha,SP. Lat:22??25'S e Long:48??10'WGr.SF.22-ZB.",,,,,,"A
+ AB
+ BA
+ Bw1
+ Bw2
+ Bw3
+ Bw4
+ Bw5
+ Bw6",1.27062067197,143,-48.17171640700,-22.42424248890
+SF22,SF22ZB/P.7,P,-22:45:23,-48:19:12,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,QUARTZAR?èNICO,?ôrtico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,A moderado,epi?ílico,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,excessivamente drenado,,"Estrada Vitoriana -- Alambari, a 7 km de Vitoriana.Botocatu,SP. Lat:22??45'S e Long:48??19'WGr.Folha SF.22--ZB.",,,,,,"A
+ AC
+ C1
+ C2
+ C3",1.23730319684,144,-48.32000349130,-22.75629806770
+SF22,SF22ZB/P.8,P,-22:50:18,-48:25:05,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,CAMBISSOLO,H?üPLICO,Tb Eutr??fico,l??ptico,argilosa sem cascalho / m??dia sem cascalho,A moderado,n?úo ?íli,,,,,forte ondulado,forte ondulado,forte ondulado,,,,,"Estrada Botucatu -- Vitoriana, a 5,2 Km da Esta?º?úo Experimental.Botucatu,SP. Lat:22??50'S e Long:48??25'WGr.Folha SF.22ZB.",,,,,,"Ap
+ Bi
+ Cr",1.21571871069,145,-48.41794741500,-22.83845391690
+SF22,SF22ZB/P.9,P,-22:58:57,-48:05:33,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,LIT?ôLICO,Eutr??fico,t?¡pico,arenosa sem cascalho / arenosa sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,,,"Estrada Conchas -- Juquiritiba, a 12 Km de Conchas,.Conchas,SP. Lat:22??58'S e Long:48??06'WGr.Folha SF.22-ZB.",,,,,,"A
+ C
+ R",1.28621677153,146,-48.09239147210,-22.98256407070
+SF22,SF22ZC/E.1,E,-23:15:02,-50:57:24,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutrof??rrico,t?¡pico,muito argilosa sem cascalho / muito argilosa sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Munic?¡po de Jata?¡zinho,PR.Lat:23??15'S e Long:             .Folha SF.22-ZC.",,,,,,"A
+ Bt
+ C",0.66216546839,147,-50.95660961050,-23.25062546860
+SF22,SF22ZC/E.2,E,-23:09:21,-49:33:11,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO,Distr??fico,abr??ptico,argilosa sem cascalho / muito argilosa sem cascalho,A moderado,,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,plano,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Timburi - Bernardino de Campos, a 8,7 Km de Timburi.                     Lat:23??09'S e Long:49??33'WGr.Folha SF.22-ZC.",,,,,,"A
+ BA
+ Bt",0.96776982355,148,-49.55310927850,-23.15586743010
+SF22,SF22ZC/E.3,E,-23:52:24,-50:24:59,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / argilosa sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,,n?úo pedregosa,n?úo rochosa,bem drenado,,"Munic?¡pio de Ibaiti,PR.Lat:23??52'S e Long:50??25'WGr.Folha SF.22ZC.",,,,,,"A
+ Bt",0.77868096572,149,-50.41647622130,-23.87324239750
+SF22,SF22ZC/E.4,E,-23:52:58,-50:22:34,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Distr??fico,t?¡pico,m??dia sem cascalho / argilosa sem cascalho,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Munic?¡pio de Ibaiti,PR.Lat:23??52'S e Long:50??22'WGr.Folh SF.22ZC.",,,,,,"A
+ Bt",0.78742103900,150,-50.37617928280,-23.88286320310
+SF22,SF22ZC/P.2,P,-23:29:36,-49:59:57,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,LIT?ôLICO,Eutr??fico,t?¡pico,argilosa sem cascalho / argilosa pouco cascalhenta,,n?úo ?íli,,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,forte ondulado,ondulado,ondulado forte ondulado,n?úo pedregosa,n?úo rochosa,imperfeitamente drenado,forte,"Estrada Santo Ant??nio da Platina a Guatigu?í, a 21,5 Km de Santo Ant??nio da Platina.Muncip?¡o de Joaquim T?ívara,PR.LAT: 23??29'S e LONG:50??00'WGr.Folha:SF.22-ZC.",Trincheira no ter?ºo superior de eleva?º?úo com 15 % de declive.,"Siltitoscomintercala?º??esden?¡veismaisarenosos,algumasvezescomcarv?úoefolhelhoscarbonosos.GrupoGuat?íIndiviso.SupergrupoTubar?úo.Permianom??dioasuperior.",Altera?º?úo das rochas supracitadas.,Floresta Estacional Semidecidual,Pastagemdecapimcoloni?úo,"Ap
+ Bi
+ BC
+ R",0.87008299838,151,-49.99902859390,-23.49338799840
+SF22,SF22ZC/P.1,P,-23:29:31,-50:00:44,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,BRUNO-ACINZENTADO,Al?¡tico,,siltosa sem cascalho / muito argilosa sem cascalho,A proeminente,n?úo ?íli,n?úo erodida,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,ondulado,ondulado,ondulado forte ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,n?úo aparente,"Estrada Santo Ant??nio da Platina a Quatigu?í, a 20 Km de Santo Ant??nio da Platina. Joaquim T?ívora,PR. Lat:23??29'S e Long:50??01'WGr.Folha: SF.22-ZC.",Ter?ºo inferior de eleva?º?úo com 12 % de declive.,"Siltitoscinza-esverdeadoscomintercala?º??esden?¡veismaisarenosos,algumavezescomcarv?úoefolhelhoscarbonosos.GrupoQuat?úIndiviso.SupergrupoTubar?úo.Per?¡odo:Permianom??dioasuperior.",Intemperiza?º?úo das rochas supracitadas.,Floresta Estacional Semidecidual,Pastagem,"A
+ E
+ Bt
+ C",0.86723940628,152,-50.01212705910,-23.49205477880
+SF22,SF22ZC/P.4,P,-23:01:21,-49:45:05,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NITOSSOLO,VERMELHO,Eutrof??rrico,t?¡pico,muito argilosa sem cascalho / muito argilosa sem cascalho,A moderado,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Ourinhos - Piraju, a 7,8 Km de Ourinhos. Xavantes,SP.Lat:23??01'S e Long:49??45'WGr.Folha SF.22ZC.",,,,,,"Ap
+ Bt1
+ Bt2
+ BC
+ C
+ R",0.92489956249,153,-49.75133899550,-23.02245924720
+SF22,SF22ZC/P.5,P,-23:55:03,-49:49:03,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,t?¡pico,argilosa sem cascalho / argilosa sem cascalho,A proeminente,?ílico,,n?úo pedregos,n?úo rochosa,,suave ondulado,suave ondulado,suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Venceslau Braz - S?úo Jos?? da Boa Vista, a 1 Km de Venceslau Braz.Venceslau Braz,SP.Lat:23??54'S e Long:49??49'WGr.Folha SF.22ZC.",,,,,,"A
+ AB
+ BA
+ Bw1
+ Bw2",0.90880343555,154,-49.81738239790,-23.91757300760
+SF22,SF22ZD/P.8,P,-23:09:37,-48:05:52,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,LIT?ôLICO,Eutr??fico,t?¡pico,argilosa sem cascalho /,,n?úo ?íli,,n?úo pedregos,n?úo rochosa,,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,,"Estrada Porangaba - Conchas, a 2 Km de Porangaba.Porangaba,SP. Lat:23??09'S e Long:48??06'WGr.Folha SF.22-ZD.",,,,,,"A
+ R",1.28451162466,155,-48.09783711350,-23.16015337180
+SF22,SF22ZD/P.3,P,-23:25:18,-48:03:06,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,ARGISSOLO,VERMELHO-AMARELO,Al?¡tico,t?¡pico,argilosa sem cascalho / muito argilosa sem cascalho,,?ílico,,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,ondulado,ondulado,ondulado suave ondulado,n?úo pedregosa,n?úo rochosa,bem drenado,ligeira,"Estra antiga Itapetininga a Tatu?¡, a 0,7 Km  do rio Tatu?¡. Tatu?¡,SP. LAT: 23??25'S e LONG: 48?? 03'WGr.Folha-SF.22-ZD.",Corte de estrada no ter?ºo superior de eleva?º?úo com 15% de declive.,"Argilitos,folhelhosesiltitos.Forma?º?úoIrat?¡.SubgrupoEstradaNova.GrupoPassaDois.Per?¡odo:Permianosuperior.",Meteoriza?º?úo das rochas locais.,Floresta Estacional Semidecidual,Cultura de feij?úo,"Ap
+ BA
+ Bt1
+ Bt2
+ BC",1.29380559732,156,-48.05178238770,-23.42172651810
+SF22,SF22ZD/P.4,P,-23:28:33,-48:11:06,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,NEOSSOLO,LIT?ôLICO,Distr??fico,t?¡pico,argilosa sem cascalho /,A moderado,?ílico,,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,suave ondulado,suave ondulado,forte ondulado,n?úo pedregosa,n?úo rochosa,imperfeitamente drenado,ligeira,"Estrada Guare?¡ a Itapetininga, a 12 Km de Guare?¡.Guare?¡,SP. LAT: 23??28'S e LONG: 48??11'WGR.Folha SF.22-ZD.",Corte de estrada no ter?ºo m??dio de eleva?º?úo com 2 a 6 % de declive.,"Siltitos,folhelhos,eargilitos.Forma?º?úoCorumbata?¡.SubGrupoEstradaNova.GrupopassaDois.Per?¡odoPermiano.",Altera?º?úo das rochas locais.,Floresta Estacional Semidecidual,Pastagem,A,1.26469224978,157,-48.18493276030,-23.47575014920
+SF22,SF22ZD/P.2,P,-23:16:38,-49:23:36,MME-SG-PROJETO RADAMBRASIL/EMBRAPA-SNLCS,LATOSSOLO,VERMELHO,Distr??fico,??mbrico,argilosa sem cascalho / argilosa sem cascalho,A proeminente,?ílico,,n?úo pedregos,n?úo rochosa,Floresta Estacional Semidecidual,ondulado,ondulado,ondulado,n?úo pedregosa,n?úo rochosa,fortemente drenado,ligeira,"Estrada Piraj?? a Tejup?í, a 8 Km do Piraj??.Piraj??,SP.LAT: 23??16'S e LONG:49??23'WGR.Folha SF.22-ZD.",Ter?ºo m??dio de eleva?º?úo com 8 a 10 % de declive.,Derramesbas?ílticosediab?ísioscomdiquesesills.Ocorr?¬nciasrestritasdeefusivas?ícidas(riodacitosp??rfiros).Forma?º?úoSerraGeral.GrupoS?úoBento.Per?¡odo:Jur?íssico/Cret?íceo.,"Efusivas ?ícidas,com influ?¬ncia de outros materiais(arenitos).",Floresta Estacional Semidecidual,"Culturas de caf??, cana de a?º??car e milho","A
+ AB
+ BA
+ Bw",1.00229360309,158,-49.39328136450,-23.27723869920

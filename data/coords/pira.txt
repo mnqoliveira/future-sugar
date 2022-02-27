@@ -1,0 +1,7 @@
+latDMS -22,43,30
+longDMS -47,38,56
+latDec -22.725
+longDec -47.648889
+zUTM 23K
+latUTM 227923
+longUTM 7484491

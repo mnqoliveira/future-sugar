@@ -1,0 +1,23 @@
+*SOILS: DSSAT Soil Input File with Data from Marin 2011. Runnoff and Albedo estimated by DSSAT.
+
+*FS00909002  Marin       C        450  Lat Verm Am - Marin 2011 - Puro
+@SITE        COUNTRY          LAT     LONG SCS FAMILY
+ Dataset2    BRASIL            -99     -99 Typic Hapludox
+@ SCOM  SALB  SLU1  SLDR  SLRO  SLNF  SLPF  SMHB  SMPX  SMKE
+     Y   .17   7.1    .6    84     1     1 IB001 IB001 IB001
+@  SLB  SLMH  SLLL  SDUL  SSAT  SRGF  SSKS  SBDM  SLOC  SLCL  SLSI  SLCF  SLNI  SLHW  SLHB  SCEC  SADC
+    20   -99   .22   .36   .52  .956   .39  1.34   1.7    50   8.5   -99   -99   4.6   -99     5     0
+    40   -99  .235  .355  .495  .913   .38  1.29   .81    54     9   -99   -99   4.6   -99   3.2     0
+   100   -99   .24  .343  .473  .751   .37  1.25   .05    57     8   -99   -99   4.2   -99   2.7     0
+   450   -99   .25  .335   .47  .049   .37  1.22   .05    57     8   -99   -99   4.2   -99   2.7    .4
+
+*FS00909003  Marin         SL     450  Lat Verm Esc - Marin 2011 - Puro
+@SITE        COUNTRY          LAT     LONG SCS FAMILY
+ Dataset3    BRASIL            -99     -99 Typic Hapludox
+@ SCOM  SALB  SLU1  SLDR  SLRO  SLNF  SLPF  SMHB  SMPX  SMKE
+    RY   .14   7.1    .6    76     1     1 IB001 IB001 IB001
+@  SLB  SLMH  SLLL  SDUL  SSAT  SRGF  SSKS  SBDM  SLOC  SLCL  SLSI  SLCF  SLNI  SLHW  SLHB  SCEC  SADC
+    20   -99  .115   .21   .44  .956   .85  1.31   .81  18.5   6.5   -99   -99   5.5   -99   5.9     0
+    40   -99   .12   .22   .44  .913   .74  1.22   .59    21   8.5   -99   -99   4.7   -99   3.9     0
+   100   -99   .12   .21   .42  .751   .72  1.21   .06    21     8   -99   -99   5.3   -99   2.8     0
+   450   -99   .12   .21   .42  .049    .7  1.21   .06    21     8   -99   -99   5.3   -99   2.8    .4
