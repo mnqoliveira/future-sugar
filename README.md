@@ -59,8 +59,8 @@ Finally, Marin et al. (2015)[^7] suggest more targeted experiments to understand
 [^6]: Marin, F.R., Jones, J.W., Royce, F., Suguitani, C., Donzeli, J.L., Filho, W.J.P., Nassif, D.S.P., 2011a. Parameterization and Evaluation of Predictions of DSSAT/CANEGRO for Brazilian Sugarcane. Agron. J. 103, 304. doi:10.2134/agronj2010.0302
 [^7]: Marin, F.R., Thorburn, P.J., Nassif, D.S.P., Costa, L.G., 2015. Sugarcane model intercomparison: Structural differences and uncertainties under current and potential future climates. Environ. Model. Softw. 72, 372–386. doi:10.1016/j.envsoft.2015.02.019
 [^8]: Ruane, A.C., Goldberg, R., Chryssanthacopoulos, J., 2015. Climate forcing datasets for agricultural modeling: Merged products for gap-filling and historical climate series estimation. Agric. For. Meteorol. 200, 233–248. doi:10.1016/j.agrformet.2014.09.016
-[^9]: Caldarelli, C.E., Gilio, L., 2018. Expansion of the sugarcane industry and its effects on land use in São Paulo: Analysis from 2000 through 2015. Land use policy 76, 264–274. https://doi.org/10.1016/j.landusepol.2018.05.008
-[^10]: Spera, S., VanWey, L., Mustard, J., 2017. The drivers of sugarcane expansion in Goiás, Brazil. Land use policy 66, 111–119. https://doi.org/10.1016/j.landusepol.2017.03.037
+[^9]: Caldarelli, C.E., Gilio, L., 2018. Expansion of the sugarcane industry and its effects on land use in São Paulo: Analysis from 2000 through 2015. Land use policy 76, 264–274. doi:10.1016/j.landusepol.2018.05.008
+[^10]: Spera, S., VanWey, L., Mustard, J., 2017. The drivers of sugarcane expansion in Goiás, Brazil. Land use policy 66, 111–119. doi:10.1016/j.landusepol.2017.03.037
 [^11]: Marin, F.R., Jones, J.W., Singels, A., Royce, F., Assad, E.D., Pellegrino, G.Q., Justino, F., 2013. Climate change impacts on sugarcane attainable yield in southern Brazil. Clim. Change 117, 227–239. doi:10.1007/s10584-012-0561-y
 [^12]: IBGE, 2006. Mapa de Solos do Brasil. [Link](refs_methods/)
 [^13]: ANA - Agência Nacional de Águas, 2017. Levantamento da cana-de-açúcar irrigada na região Centro-Sul do Brasil. [Link](refs_methods/)
