@@ -6,7 +6,7 @@
 # kept for future reference.
 
 # TODO: remove all paths if this file is published
-IN=/run/media/fohca/Rositale500Gb/Documentos/Pesquisa/Projetos/futureSugar/data/
+IN=./futureSugar/data/
 
 for file in $IN/apsim-out2/*.out
   do
