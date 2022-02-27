@@ -62,8 +62,8 @@ Finally, Marin et al. (2015)[^7] suggest more targeted experiments to understand
 [^9]: Caldarelli, C.E., Gilio, L., 2018. Expansion of the sugarcane industry and its effects on land use in São Paulo: Analysis from 2000 through 2015. Land use policy 76, 264–274. https://doi.org/10.1016/j.landusepol.2018.05.008
 [^10]: Spera, S., VanWey, L., Mustard, J., 2017. The drivers of sugarcane expansion in Goiás, Brazil. Land use policy 66, 111–119. https://doi.org/10.1016/j.landusepol.2017.03.037
 [^11]: Marin, F.R., Jones, J.W., Singels, A., Royce, F., Assad, E.D., Pellegrino, G.Q., Justino, F., 2013. Climate change impacts on sugarcane attainable yield in southern Brazil. Clim. Change 117, 227–239. doi:10.1007/s10584-012-0561-y
-[^12]: IBGE, 2006. Mapa de Solos do Brasil.
-[^13]: ANA - Agência Nacional de Águas, 2017. Levantamento da cana-de-açúcar irrigada na região Centro-Sul do Brasil.
-[^14]: IAC, 2017. Censo varietal IAC de cana-de-açúcar na região Centro-Sul do Brasil - Safra 2016/2017.
+[^12]: IBGE, 2006. Mapa de Solos do Brasil. [Link] (refs/)
+[^13]: ANA - Agência Nacional de Águas, 2017. Levantamento da cana-de-açúcar irrigada na região Centro-Sul do Brasil. [Link] (refs/)
+[^14]: IAC, 2017. Censo varietal IAC de cana-de-açúcar na região Centro-Sul do Brasil - Safra 2016/2017. [Link] (refs/)
 [^15]: Walter, A., Galdos, M.V., Scarpare, F.V., Leal, M.R.L.V., Seabra, J.E.A., da Cunha, M.P., Picoli, M.C.A., de Oliveira, C.O.F., 2014. Brazilian sugarcane ethanol: Developments so far and challenges for the future. Wiley Interdiscip. Rev. Energy Environ. 3, 70–92. doi:10.1002/wene.87
 [^16]: Scarpare, F.V., Hernandes, T.A.D., Ruiz-Corrêa, S.T., Picoli, M.C.A., Scanlon, B.R., Chagas, M.F., Duft, D.G., Cardoso, T. de F., 2016. Sugarcane land use and water resources assessment in the expansion area in Brazil. J. Clean. Prod. 133, 1318–1327. doi:10.1016/j.jclepro.2016.06.074
