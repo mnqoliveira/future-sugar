@@ -6,11 +6,11 @@
 # kept for future reference.
 
 # TODO: remove all paths if this file is published
-IN=./futureSugar/data/
+IN=/run/media/fs/data/
 
 for file in $IN/apsim-out2/*.out
   do
     echo "Processing $file"
-    echo "$file $(awk '$3 == 365' $file)" >> /home/fohca/res.txt
+    echo "$file $(awk '$3 == 365' $file)" >> /home/fs/res.txt
   done
 
