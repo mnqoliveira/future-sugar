@@ -6,7 +6,7 @@ OLIVEIRA, M. P. G. de; BOCCA, F. F. ; RODRIGUES, L. H. A. . Classification trees
 * Poster here:
 Oliveira, Monique; Rodrigues, Luiz Henrique; Bocca, Felipe Ferreira (2017): Classification trees for delving into sugarcane production in Brazil under climate change. figshare. Poster. https://doi.org/10.6084/m9.figshare.14695527.v2
 
-Parts of this work received contributions from [@waroce] and from [@boccaff].
+Parts of this work received contributions from [@waroce](https://github.com/waroce) and from [@boccaff](https://github.com/boccaff).
 
 ## Methods
 ### Variables
